@@ -1,0 +1,17 @@
+Index,Details,Telugu,English,Status
+24,t(2)-e(3) | .? vs .??,"జోయెల్, బబుల్ గమ్. సినిమా లింకన్ స్క్వేర్ అది నీదేనా లేకపోతే సీట్ కింద నుంచి తీసావా?","[MARTY] Joel, the bubble gum. Did you have that before, or did you find it underneath the seat? Did you have that before, or did you find it underneath the seat?",MISMATCH
+70,t(3)-e(2) | ... vs ..,హా. లిఫ్షిట్జ్. అది అతని అసలు పేరు.,Lifshitz. That's his real name.,MISMATCH
+72,t(2)-e(4) | .. vs ....,లేదు. నాకది తెలియదు.,No. I never knew that. No. I never knew that.,MISMATCH
+102,t(2)-e(3) | .. vs ...,"అవును, అవును, సరిగ్గా అంతే. అదే.","Yes. Yeah, that's exactly it. [STAMMERS] That's it.",MISMATCH
+104,t(2)-e(3) | .. vs ...,"అంటే, అవును. ఆయన ఇక లేరు కాబట్టి, అందరూ నేను ఆయన స్థానాన్ని పూరించాలని చూస్తున్నారు అనిపిస్తోంది.","Well, yeah. I guess, now that he's gone, I I feel like, you know, everyone's looking at me, , to fill his spot. I I feel like, you know, everyone's looking at me, , to fill his spot.",MISMATCH
+157,t(2)-e(4) | .. vs ....,కానీ ఇకపై కాదు. నీ జీవిత పగ్గాలను చేతపుచ్చుకొ.,But no longer. Grab the reins to your life. But no longer. Grab the reins to your life.,MISMATCH
+166,t(4)-e(5) | ...? vs ....?,ముద్దుగానా? నేనెలా ఉన్నానో చూడు. ఆ చవకబారు సూట్ చూడు. బాబోయ్. అది ఒక క్లిప్ తో పెట్టుకునే టై ఆ?,Cute? Oof. Look how miserable I look. [CHUCKLES] That cheap suit. Oof. Is that a clip-on tie?,MISMATCH
+186,t(2)-e(4) | .. vs ....,అవును. అవును.,Yeah. Yeah. Yeah. Yeah.,MISMATCH
+197,t(2)-e(4) | .. vs ....,"అలాగే, లంచ్ కోసం 36 నిమిషాలు. క్షమించండి, 30 నిమిషాలు.",", lunch is 36 minutes. Sorry, 30 minutes. , lunch is 36 minutes. Sorry, 30 minutes.",MISMATCH
+214,t(2)-e(4) | .. vs ....,"ఇంకా నయం, మార్టీ. నీ కోసం ఆగాను, ఫిల్లిస్.","Give me a break, Marty. Waiting on you, Phyllis. Give me a break, Marty. Waiting on you, Phyllis.",MISMATCH
+272,t(2)-e(4) | .. vs ....,తప్పకుండా. నేను నిన్ను నేను నిన్ను బలవంత పెట్టడం లేదు.,"Of course. Well, I'm not gonna I'm not gonna force you. Of course. Well, I'm not gonna I'm not gonna force you.",MISMATCH
+295,t(4)-e(3) | ?.?. vs ??.,"హ, అది ఆయన పేరా? డాక్టర్. ఐక్? అవును.",", is that his name now? Dr. Ike? Yeah.",MISMATCH
+305,t(2)-e(3) | .? vs ..?,"అవును. కానీ అంటే ఈ డాక్టర్ కొంచెం వేరుగా ఉన్నాడు, కదా?","I know. But I know. But Well [SIGHS] Well, this this doctor seems a little unconventional, huh?",MISMATCH
+459,t(2)-e(3) | .. vs ...,నిజంగా బాధగా ఉంటుంది. నన్ను నన్ను క్షమించండి.,It really hurts. I'm I'm sorry. I I I'm so sorry.,MISMATCH
+460,t(2)-e(4) | .. vs ....,నా పరువే నాకు సర్వస్వం. అందుకోసం నేను చాలా కష్టపడ్డాను.,My reputation is all I have. I've worked very hard for it. My reputation is all I have. I've worked very hard for it.,MISMATCH
+599,t(4)-e(3) | .... vs ...,మేమందరం నీ కోసం ఎదురు చూస్తున్నాము. లేదు. నాకు తెలుసు. నేను నేను నాకు కడుపు నొప్పిగా ఉంది.,"We're all out there waiting for you. No, I know. I Just gotta [CHUCKLES] Just gotta [CHUCKLES] My tummy hurts.",MISMATCH

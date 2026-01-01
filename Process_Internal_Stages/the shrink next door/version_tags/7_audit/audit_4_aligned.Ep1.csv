@@ -1,0 +1,30 @@
+Index,Details,Telugu,English,Status
+11,t(3)-e(2) | ... vs ?.,ఓహ్. థియా. నువ్వు పోడుగవుతున్నావు లేదా నేను పొట్టవుతున్నాను.,"Thea? Either you're growing, or I'm shrinking. [CHUCKLES]",MISMATCH
+13,t(2)-e(4) | .. vs ....,బుధవారం రాత్రి. నీకు ఫోన్ చేస్తాను! సరే.,Wednesday night. I'm calling you! You got it. Wednesday night. I'm calling you! You got it.,MISMATCH
+34,t(3)-e(2) | ... vs ..,సరే. పైన. నేను తప్పు బటన్ నొక్కాను.,"Okay, um [SIGHS] [CHUCKLES] Top. I pressed the wrong one.",MISMATCH
+35,t(2)-e(4) | .. vs .?..,నేను వెళ్లి నా కళ్ళద్దాలు వెతుక్కోవచ్చా? లేద. మీరు.,Can I just go find my glasses? No. You know Can I just go find my glasses? No. You know.,MISMATCH
+66,t(3)-e(2) | ... vs ..,కాదు. అవును. అవును. హే!,"No, I I know. I know. , hey!",MISMATCH
+70,t(3)-e(4) | ... vs ....,"అమ్మాయిలు! రండి, రండి, రండి. పదండి వెళ్దాం. పదండి.","Girls! Come. Come, come, come. Let's go. Come on.",MISMATCH
+76,t(2)-e(3) | .. vs ...,వాటిని చేస్తారు. వెనకాల కొన్ని ఉన్నాయి.,I'm sure they do. I'm sure they do. We got some in the back.,MISMATCH
+87,t(2)-e(3) | .. vs .?.,"ఆమె సంగతి నేను చూసుకుంటాను. సరే, అలాగే.","I'll deal with her. Okay? Yeah, okay.",MISMATCH
+99,t(3)-e(4) | ... vs ....,"సరే, అది నాకు అనవసరం. నేను సరే. నేనతన్ని కలవాలి.","Okay, I don't really care. I just Okay, I don't really care. I just Okay. [CLEARS THROAT] [SIGHS] I wanna see him.",MISMATCH
+103,t(4)-e(3) | .... vs ...,"సరే, మనం ఈ చెత్త ఆపుదాం. సరేనా. నేనిది చెయ్యలేను. నేనివాళ చెయ్యలేను.","Okay, let's cut this bullshit. I can't. I can't with this today.",MISMATCH
+119,t(2)-e(3) | .. vs ...,"సరే. అతను నాకు మధ్యాహ్నం కల్లా ఫోన్ చెయ్యకపోతే, అతనికి సమస్య ఎదురవుతుంది.","Okay. Um [CHUCKLES] Okay. Um [CHUCKLES] If he doesn't call me by this afternoon, there's gonna be trouble.",MISMATCH
+136,t(3)-e(2) | ... vs ..,"కాదు. ఇది మామూలు పుచ్చిని రంగే. అంటే, ఈ వెలుతురులో అది ముదురుగా కనిపించచ్చు.","No, it's regular Puccini. I mean, in this light it may look a little darker.",MISMATCH
+230,t(2)-e(4) | .. vs ....,సరదాగా ఉంది. కూర్చోండి.,[CHUCKLES] So funny. Have a seat. [CHUCKLES] So funny. Have a seat.,MISMATCH
+248,t(2)-e(4) | .. vs ....,"అయితే, నాకు మీ గొప్ప జీవితం గురించి చెప్పండి. నాకు అసూయగా ఉంది.","So, tell me about your great life. I'm envious. So, tell me about your great life. I'm envious.",MISMATCH
+316,t(2)-e(3) | .. vs ...,"లేదు, అలా చేసింది నువ్వే. మీరు.","No, you did that. You No, you did that. You.",MISMATCH
+327,t(5)-e(4) | ..... vs ....,కాదు. నేను మెత్తని వాడిని కాదు. కాదు. నువ్వు కాదు. కానే కాదు.,"No. I'm not billowy. No, you're not. Of course you're not.",MISMATCH
+337,t(2)-e(4) | .. vs ....,"చూడు, నేను నా డబ్బు కూడా ఇస్తాను. ఇదుగో.","Look, I'll even donate my own dime. Here. Look, I'll even donate my own dime. Here.",MISMATCH
+373,t(3)-e(6) | ... vs ......,"అయ్యో, వద్దు. అదేం లేదులే. పరవాలేదు.",", no. Yeah, yeah. No, it's okay. , no. Yeah, yeah. No, it's okay.",MISMATCH
+388,t(4)-e(3) | .... vs ...,నన్ను క్షమించండి. హా. కానే కాదు. అలా అనద్దు.,I apologize. Not at all. No need.,MISMATCH
+393,t(3)-e(6) | ... vs ......,నేను బానే ఉన్నాను. ఆ. నేను మంచిది.,I think I'm all right. Yeah. I just Good. I think I'm all right. Yeah. I just Good.,MISMATCH
+398,t(3)-e(2) | ??? vs ??,హా? ఎలా ఉంది? ఈమెని గుర్తుపట్టావా?,What do you think? Recognize her?,MISMATCH
+402,t(5)-e(3) | ..... vs ...,అవును. అవును. అవును. అవును. అవును.,"Yeah. [CHUCKLES] Right. Right, right, right.",MISMATCH
+451,t(2)-e(4) | .. vs ....,తప్పకుండా. అది మీ మంచితనం.,"Absolutely. Well, that's very, very kind of you. Absolutely. Well, that's very, very kind of you.",MISMATCH
+463,t(2)-e(3) | .. vs ...,ప్లీజ్. చూద్దాం.,Please. [STAMMERS] Let's see. I.,MISMATCH
+471,t(3)-e(4) | ... vs ....,"మార్టీ, వద్దు. వద్దు, పరవాలేదు. ఇది అయిపోయింది.","Marty, no. No. It's fine. It's done.",MISMATCH
+474,t(2)-e(4) | .. vs ....,నువ్వు భలేవాడివి. అదుగోండి.,You're something else. There you go. You're something else. There you go.,MISMATCH
+502,t(5)-e(6) | ..... vs ......,"సరే. చూడు, నేను నేను నిన్ను బాధపెట్టినందుకు నన్ను క్షమించు. నాకు అర్థమైంది. అది అయిపోయింది. కానీ నువ్వు నాకు మెక్సికో ట్రిప్ గురించి మాట ఇచ్చావు.","[SIGHS] Fine. I [SIGHS] Look, I-I Okay, I'm sorry I hurt your feelings. I get it. I get it. It's over. But you promised me a trip to Mexico.",MISMATCH
+525,t(2)-e(3) | .. vs ...,"ఇవాళ కాదు, రేపు కాదు, ఎన్నడూ కాదు. మీరు ఇలా చేయడం కొనసాగిస్తే, మీకు ఉండే వ్యూ కేవలం జైలు నాలుగు గోడలని మార్టీ అంటున్నాడు.","Not today, not tomorrow, not ever. [DEBORAH GASPS] Marty also says, if you continue in this vein, the only view your room will have is a view of the prison yard. The only view your room will have is a view of the prison yard.",MISMATCH
+542,t(3)-e(2) | ... vs ..,"ఆహ్. నువ్వు చేశావు, మార్టీ. నువ్వు నీ కోసం నిలబడ్డావు.",", you did it, Marty. You stood up for yourself.",MISMATCH

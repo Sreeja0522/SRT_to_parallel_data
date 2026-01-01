@@ -1,0 +1,11 @@
+Index,Details,Telugu,English,Status
+230,t(2)-e(3) | .? vs ..?,"అవును. నా మిత్రుడు బక్, వాళ్ల ఆట చూడటం సమయం వృథా అనుకుంటాడు, కదా?","[chuckles] Yeah. Yeah. [Bucky] , my buddy Buck here, he thinks they're a waste of time, don't you?",MISMATCH
+231,t(3)-e(5) | .?? vs .????,"తను ఫాలో కానిది క్రీడలు ఒకటే కాదు. హేయ్, బక్? నా ఉద్దేశం, నువ్వు ఎవరి వెంటా పడవు, కదా?","It's not just sports he doesn't follow. Huh? Huh? Hey, Buck? [chuckles] I mean, you don't follow anyone, do you?",MISMATCH
+238,t(3)-e(4) | ... vs ....,"తనకి ఒకే ఇంజన్ మిగిలింది. నాకు గుర్తుంది అతను నిన్ను, ""వన్ ఇంజన్ క్లెవెన్"" అన్నాడు. హేయ్.","He still had one. I remember he called you ""One Engine Cleven."" Hey. Hey, hey, hey, hey.",MISMATCH
+246,t(3)-e(4) | ... vs ....,"ఇంజన్ లేని క్లెవెన్. ఇదిగో. అవును, అవును.","[soldiers] No Engine Cleven. No Engine Cleven. Here we go. Hear, hear.",MISMATCH
+301,t(2)-e(3) | .. vs ...,సరే. అతనికి కాస్త దూరంగా జరగండి. రాత్రిపూట లక్ష్యాన్ని ఎవరు కొట్టగలరో తెలిసిందిగా!,All right. All right. Give him some room. Guess who can hit their target at night!,MISMATCH
+507,t(4)-e(7) | ??.. vs ??.....,"నాకు గాయమైంది! నాకు గాయమైంది! దేవుడా, క్రోజ్! ఏంటి? ఏంటి? లేదు. నేను బాగానే ఉన్నా.","I'm hit! I'm hit! [Douglass] Jesus, Croz! What? What? [sighs] No, no, no, no, no, no. I'm okay. [Douglass groans] I'm okay. I'm okay. False alarm. [pants]",MISMATCH
+598,t(2)-e(3) | .. vs ...,"లేదు. ఒక్క స్వరం కూడా పాడలేను, సర్.","No. No. Not a note, sir.",MISMATCH
+634,t(3)-e(2) | ... vs ..,"మీరు తాగిన మైకంలో ఉన్నారు. నన్ను కనుక్కోలేరు, కుర్రాళ్లూ. నేను అక్కడికి వెళ్తున్నాను, ఆమె దృష్టిని ఆకర్షిస్తాను.","You're drunk. [chuckles] If you can't find me, boys, I'll be over there, coming in hot on her.",MISMATCH
+643,t(2)-e(3) | .. vs ...,"ఇప్పుడే ఇస్తాను. బక్, ఈగన్.",You got it. Buck. Egan.,MISMATCH
+657,t(3)-e(4) | ... vs ....,"హేయ్, నా కుటుంబం ఐరిష్ వాళ్లే. నీకు చెప్పాను. కానీ, నేను అమెరికన్ ని.","Hey. My fam My family's Irish. I told you. I'm an American, but anyway.",MISMATCH

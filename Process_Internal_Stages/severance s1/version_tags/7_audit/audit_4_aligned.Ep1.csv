@@ -1,0 +1,8 @@
+Index,Details,Telugu,English,Status
+181,t(5)-e(3) | ..??. vs ...,సరే మరి. అలాగే. బీ-004 ట్రయినీ స్టేట్మెంట్: మాట్లాడేది ఎవరు? ప్రశ్న ప్ర-001: మీ పేరు ఏంటి? ప్రామాణికమైన ప్రతిస్పందన: తెలియదు ఇక మొదలుపెట్టు.,All right. Okay. Um There you go.,MISMATCH
+193,t(3)-e(2) | ... vs ..,అదే. సరే. బల్ల మీద ఉన్న మీకు నమస్కారములు.,"That's it. [Mark] Okay, um Hi there, you on the table.",MISMATCH
+365,t(3)-e(2) | ... vs ..,"ఆహా. తెలుసు, మిసెస్ సెల్విగ్. అంటే, అది మళ్లీ నా స్థలంలోనే వేశారు.","[Mark] No, I know, Mrs. Selvig. It's just, it was in my space again.",MISMATCH
+440,t(3)-e(4) | ... vs ....,దయచేసి నన్ను క్షమించు. పర్వాలేదులే. నేనేం పట్టించుకోను.,Please forgive me. No. It's okay. I don't care.,MISMATCH
+454,t(3)-e(4) | ..? vs ..??,"లేదు, లేదు. నాకు తెలుసుకోవాలనుంది. ఇరుక్కుపోవడం కాక ఇంకేం చెప్పాలనుకున్నావు?","No, no. I'm curious. What were you gonna say? But not trapped, but what?",MISMATCH
+547,t(2)-e(3) | .. vs ...,జ్ఞాపకాలు వేరు చేయబడతాయి. నాకు కూడా అది చేశారు.,Severed. Severed. I was.,MISMATCH
+555,t(2)-e(3) | .. vs ...,సరే మరి. అయితే మీపై జరిగిన వేర్పాటు పద్ధతి ఇప్పుడు పునరుద్ధరించబడింది.,"Right. Um, okay. So You've unsevered.",MISMATCH

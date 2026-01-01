@@ -1,0 +1,29 @@
+Index,Details,Telugu,English,Status
+60,t(2)-e(3) | .. vs ...,ఆమె నా దృష్టిలో చాలా పెద్ద స్థాయిలో ఉంది. అవును.,She's too fancy for me. I know. Yeah.,MISMATCH
+90,t(3)-e(4) | ... vs ....,నేను అది విన్నాను. నిజమే. ష్మినీ.,", I've heard that. Yeah. Schminnie. Schminnie.",MISMATCH
+93,t(2)-e(3) | ?? vs .??,"అయితే, ఇంకేంటి? ఈ రోజు ఏదైనా ఉత్సాహం కలిగించే పని ఏదైనా చేస్తున్నామా?","Ugh. So, what else? We think of doing anything exciting today?",MISMATCH
+126,t(3)-e(2) | ... vs ..,నువ్వు ఈ సమస్య పరిష్కరించగలవు. అయ్యో. నీళ్లు పైకి వస్తున్నాయి.,"You got this. , my God. It's overflowing!",MISMATCH
+158,t(2)-e(3) | .. vs ...,"ఓహ్, దేవుడా. వీడి ఐపాడ్ ఇక్కడ ఉంది.","[Sylvia grunts] , my God. There's his iPad. Ugh.",MISMATCH
+193,t(2)-e(3) | .. vs ...,ఊరికే వాటిని తరలించాలంటే చాలా సమయం పడుతుంది. నువ్వు ఒక్క రోజులో మార్చేయచ్చు.,"Just You know. Takes a long time to move. , you can do it in a day.",MISMATCH
+229,t(2)-e(3) | .. vs ...,"లేదు. హాయ్, లేదు.","No, no, no. Hi. No.",MISMATCH
+243,t(2)-e(4) | .. vs ....,దగ్గరగా వచ్చాడు. దీనికి యాభై ఏళ్ల సైకిల్ ఉంటుంది.,Close. Close. It's got the 50-year cycle. You know.,MISMATCH
+256,t(2)-e(3) | .. vs ...,అవును. ఇది బహుశా ప్రవేశ గది కావచ్చు.,Yes. Yes. This could be the foyer or.,MISMATCH
+267,t(2)-e(7) | .. vs .......,ఇది ఏంటి? మెడిక్. మెడి.,What's this? [alarm blares] [warning announcer] Medic. Medic. Medic. Medic. Medic. Medic. Medi.,MISMATCH
+268,t(4)-e(5) | ..?. vs ...?.,"దేవుడా. అందరికీ ఆ బటన్ అంటే ఇష్టం. కానీ మీకు ఒక విషయం తెలుసా? మంచి సంగతి ఏమిటంటే, సీలింగ్ లో వైరింగ్ ఇప్పటికే ఉంది కాబట్టి, మీరు చక్కని సౌండ్ సిస్టమ్ పెట్టుకోవచ్చు.","[Sylvia] Jesus Christ. Whoa. [alarm stops] Everybody loves that button. [chuckling] But you know what? The good thing is, with the wiring in the ceiling, you could just put in a sound system.",MISMATCH
+279,t(4)-e(3) | .... vs ...,నేను మామూలుగా గుర్తుంచుకుంటానే. లేదు. అవును. ఆహ్ హా.,[Diane] I think I would remember. No. [Sylvia chuckling] [Diane] Yeah.,MISMATCH
+284,t(3)-e(4) | ... vs ....,"అవును, నేను ఆ గదిని కూలగొట్టి పెద్ద డైనింగ్ రూమ్ గా మార్చబోతున్నాను ఇందులో మేము కాలక్షేపం చేస్తాం, ఇంకా అవును. మంచిది. చాలా బాగుంది.","Yeah, I'm gonna knock that wall down and make this the big dining room where we can entertain, and Yeah. Nice. Very cool. Very cool.",MISMATCH
+317,t(3)-e(5) | ... vs .....,ఇది చూడు. మెడిక్. దేవుడా! సారీ.,Look at this. [alarm blares] [warning announcer] Medic. Medic. Jesus! Sorry. Sorry.,MISMATCH
+318,t(2)-e(4) | .. vs ....,మెడిక్. నువ్వు దాన్ని రెండుసార్లు నొక్కాలి.,Medic. Medic. Medic. You wanna press it twice.,MISMATCH
+319,t(3)-e(4) | ... vs ....,మెడిక్. మెడి నువ్వు రెండుసార్లు నొక్కాలి. ఇది.,Medic. Medic. Me You wanna press it twice. It's.,MISMATCH
+372,t(3)-e(4) | ... vs ....,మనం సవాలు చేశాం. ఒప్పుకున్నాం. నేను ఎలా చెప్పగలను.,We're on. We did it. We made the deal. How I'm supposed.,MISMATCH
+391,t(3)-e(4) | ... vs ....,నాకు చేయాలని లేదు. లేదు. అసలు కుదరదు.,I don't want to. No. No. Absolutely not.,MISMATCH
+392,t(4)-e(3) | .... vs ...,ఇలా చూడు. దయచేసి విను. ప్లీజ్. ఖచ్చితంగా కుదరదు.,"Come on, please. Please. Absolutely not.",MISMATCH
+393,t(2)-e(3) | .. vs ...,మనం వెళ్తున్నాం. ఇంక తెగిపోతుంది.,We are going. We are going. It's so final.,MISMATCH
+405,t(4)-e(7) | .... vs .......,హాయ్. అది చూసింది. చూడు. హాయ్.,Hi. Hi. Hi. Aw. [gasps] He does. Look. Hi.,MISMATCH
+417,t(4)-e(3) | .... vs ...,నేను పట్టను. ప్రయత్నించాను. నమ్ము. ఇలా చూడు.,"I won't fit, I've tried. Trust me. Come on.",MISMATCH
+420,t(6)-e(7) | ...... vs .......,నువ్వు ఏం చేస్తున్నావో నాకు తెలుసు. చాలా సన్నగా ఉండాలి. నాకు నచ్చింది. సరే. మంచిది. ఈ కుక్క తలుపు నుండి వెళ్లు.,"I know what you're doing. Very narrow. , I like it. I like it. Okay. Good. Get through that doggy door.",MISMATCH
+427,t(4)-e(5) | .... vs .....,ఇలా చూడు. నీలో ఆ సత్తా ఉంది. నిజం. బాగుంది.,"Look at that. Whoo! [Will] You got it. Yes. Good. Good, good.",MISMATCH
+428,t(2)-e(4) | .. vs ....,బాగుంది. ఇప్పుడు తలుపు తీయి.,Nice. Get the door. Get the door. Get the door.,MISMATCH
+479,t(4)-e(7) | .... vs .......,అవును. ఇది చాలా మంచిది. వద్దు. ఇప్పుడు వద్దు.,Yeah. He's very sweet. [shrieks] Don't. Don't. Don't. Don't. Not No.,MISMATCH
+502,t(2)-e(3) | .. vs ...,"నువ్వు నీ అభిప్రాయాన్ని చెప్పి ఉండకపోతే ఆ చెత్త కుప్ప ఇంటికి నేను నో చెప్పేంత ధైర్యం చేసి ఉండేదాన్ని కాదు. సరే, ఆడ్రేతో నాకు తెగతెంపులు చేసినందుకు నీకు కూడా థాంక్యూ, ఇంకా కాస్త బాధ కలిగించినా నాకు ఉపశమనం కలిగించినందుకు.","I don't think I would've had the courage to say no to that dump if it hadn't been for your opinion. So, thank you for that. [inhales deeply] Well, thank you for, , you know, finally making me [chuckles] cut ties with Audrey and pull that Band-Aid off.",MISMATCH
+530,t(3)-e(2) | ... vs ..,అవును. అతను ఊరికే వచ్చాడు. దాని గురించి కొత్త అభిప్రాయం చెబుతాడని తీసుకువెళ్లా.,"Yeah, he just came by. Fresh set of eyes.",MISMATCH

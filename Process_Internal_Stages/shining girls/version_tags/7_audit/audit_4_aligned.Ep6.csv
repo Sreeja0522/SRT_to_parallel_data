@@ -1,0 +1,14 @@
+Index,Details,Telugu,English,Status
+25,t(3)-e(2) | ... vs ..,నాకు తూటా గాయమైంది. నన్ను ఇక్కడి నుండి తీసుకుపో. ఇక్కడి నుండి తీసుకుపో.,I've been shot. Take me back. Take me back!,MISMATCH
+97,t(5)-e(6) | ..... vs ......,అప్పుడు మనం పిల్లలం. ఇప్పుడు నువ్వు ఎదిగి ఉంటావని భావించాను. తను బయటకి వెళ్లింది. పద. పద.,We were kids. I thought you would've come up with something else by now. [door closes] She's out. She's out. Come on. Let's go.,MISMATCH
+147,t(2)-e(3) | .? vs ..?,నా దగ్గర డబ్బులు ఉన్నాయి. దీన్ని యూరప్ నుండి తెప్పించావా?,I have money. I have money. Is it from Europe?,MISMATCH
+166,t(2)-e(3) | .? vs .??,"మళ్లీ నువ్వు బాలబన్ లో షో ఇవ్వబోతున్నావు కదా. తను దాన్ని చెడగొట్టడం నాకు ఇష్టం లేదు, ఏంటి?","You got the Balaban coming up. I didn't want her to ruin that, you know? What?",MISMATCH
+171,t(3)-e(4) | ... vs ....,ఇదిగో. నీ చేతిని ఇలా ఇవ్వు. చూడు ఎంత బాగుందో.,"Look. Here. Give me your wrist. I mean, look at that, huh.",MISMATCH
+221,t(3)-e(2) | ... vs ..,లేదులెండి. థ్యాంక్యూ. అదీ మరి.,"[passerby] No, thank you. So, yeah.",MISMATCH
+271,t(2)-e(3) | .? vs .??,ఇది 1920. అది కూడా మీకు తెలీదా?,It's 1920. Why don't you know that? Huh?,MISMATCH
+287,t(2)-e(3) | .. vs ...,ఇదుగో. నేను దీన్ని వాకర్ లో ఉండే సైడెల్ షాపులో కొన్నాను.,Here. I buy these at Sydel's. The one on Wacker.,MISMATCH
+372,t(3)-e(4) | ..? vs ....,ఏ సమయమైనా పర్లేదు. ఏదోకటి ఎంచుకో. నేటికి వెయ్యి ఏళ్ల తర్వాతది అయినా పర్లేదా?,"Whenever. Go on. Pick one. , a thousand years from now.",MISMATCH
+484,t(3)-e(4) | ... vs ....,"లేదు, నేను వేయలేను. చిటికెలో వేసేసి వెళ్లిపోండి. రండి.","No, I can't. Just a quick one. Come on. Let's go.",MISMATCH
+491,t(2)-e(3) | .. vs ...,సరే. టాయిలెట్ కే వెళ్లి చిటికెలో వచ్చేస్తా.,Fine. Just the toilet. I'll be right back.,MISMATCH
+527,t(3)-e(2) | ... vs ..,"లేదు, హార్పర్. నేను పైకి వేసుకుంటాలే. వద్దు.",", no, Harper, I'm gonna put it back up. No.",MISMATCH
+575,t(2)-e(3) | .. vs ...,"క్లారా, ఆగు, ఆగు. బాగా పొద్దుపోయింది.","Klara, wait. Wait. [stammers] It's late.",MISMATCH

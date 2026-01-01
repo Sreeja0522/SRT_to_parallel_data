@@ -1,0 +1,9 @@
+Index,Details,Telugu,English,Status
+10,t(5)-e(4) | ....? vs ...?,సరే. బాల్ వేయండి. బాల్ వేయండి. రండి. మీ నాన్నగారు చచ్చిపోయారా?,"All right, ball in. Ball in. Let's go. Your father's dead?",MISMATCH
+11,t(3)-e(2) | ... vs ..,అవును. బాల్ వేయండి. బాల్ వేయండి.,"Yeah. Ball in, ball in.",MISMATCH
+161,t(4)-e(5) | .... vs .....,అవి కొంచెం వైన్. కొంచెం మాంసం. ఒక రాకెట్ లాంచర్. ఊరికే అన్నాను.,You know. Some wine. Some meat. A missile launcher. Kidding.,MISMATCH
+186,t(3)-e(2) | ... vs ..,ఇదుగోండి. మీకివి కావాలి. మీ కళ్ళు ఎర్రగా అవుతున్నాయి.,"Here, you need these. Your eyes are getting all red.",MISMATCH
+243,t(2)-e(3) | .. vs ...,"ఓహ్, లేదు, లేదు, లేదు. నువ్వు ఒక్కడివే వెళ్ళాలి.",", no. No, no. You should enjoy it on your own.",MISMATCH
+371,t(5)-e(3) | ..... vs ...,"కాదు, కాదు, కాదు. కాదు. కాదు, కాదు, కాదు, కాదు, కాదు. వదిలేయ్. వదిలేయ్.","No, no, no. Let it go. Let it go.",MISMATCH
+376,t(3)-e(2) | ... vs ..,"ఇప్పుడు కాదు. మనం పని చేస్తున్నాం. ఇప్పుడు కాదు, బ్రూస్.","Not now, we're working. Not now, Bruce.",MISMATCH
+428,t(8)-e(6) | .......? vs .....?,సరే. నేరుగా. నేరుగా. సరే. అలాగే. ఇంకా నేరుగా వెళ్తున్నాము. నువ్వు కుడి వైపుకి తిరగాలి. ఇప్పుడే ఇప్పుడా?,"Okay, straight. Straight. Okay, right. Still going straight. You're going to turn right. Now And now?",MISMATCH

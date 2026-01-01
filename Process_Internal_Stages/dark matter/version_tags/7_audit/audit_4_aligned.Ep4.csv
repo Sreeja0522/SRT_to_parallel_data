@@ -1,0 +1,6 @@
+Index,Details,Telugu,English,Status
+167,t(2)-e(3) | .. vs ...,అమాండా. హేయ్.,Amanda. Amanda. Hey.,MISMATCH
+345,t(2)-e(5) | .? vs ....?,హలో. ఇది ఏంటి?,Whoa. Whoa. Hello. Hello. What's this?,MISMATCH
+358,t(2)-e(5) | .. vs .....,నిదానం. నిదానంగా రా.,"[Leighton] Whoa. Whoa, whoa. Whoa, whoa. Easy. Easy there.",MISMATCH
+463,t(7)-e(6) | ....... vs ......,లోపలికి. రెండు. మూడు. వదులు. రెండు. మూడు. కేవలం నీ శ్వాస మీద ధ్యాస ఉంచు.,"In. Two. Three. [breathes deeply] Out. Two, three. Just focus on your breath.",MISMATCH
+507,t(3)-e(4) | ... vs ....,"లేదు, ఫర్వాలేదు. చీకటి పడుతోంది. వెళదాం పద.","No. No, it's fine. It's getting dark. Let's go.",MISMATCH

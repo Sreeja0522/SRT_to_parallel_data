@@ -1,0 +1,8 @@
+Index,Details,Telugu,English,Status
+123,t(2)-e(3) | .. vs ..?,"ఇక్కడున్న వాళ్లు నాకు పాస్ ఇచ్చారు. వాళ్ళకు నా బ్యాడ్జ్ చూపాను, అంతే.","The fellas here, they gave me a pass. I just showed 'em my badge. You know?",MISMATCH
+127,t(2)-e(3) | .. vs ...,"బయట ఉన్నా, జైల్లో ఉన్నా, పోలీసులు ఒకరినొకరు కాపాడుకుంటారు. అది పోలీసుల మద్య ఉండే బంధం.","Whether inside, outside. Blue is blue. It's a brotherhood.",MISMATCH
+346,t(2)-e(3) | .. vs ?..,లేదు. అస్సలు లేదు.,Am I connected? No. No.,MISMATCH
+374,t(3)-e(4) | ... vs ....,కాబట్టి నాకు కాస్త డబ్బు కావాలి. అదిస్తే నాకు చాలు. నీకు అదేమంత పెద్ద మొత్తం కూడా కాదు.,So I need a small loan. And I'm good for it. And it ain't much. Not to you.,MISMATCH
+449,t(2)-e(3) | ?. vs ??.,మరి మీకు? ఆ సమయంలో అయితే నాకు కూడా అలానే అనిపించింది.,You? At the time? Yeah.,MISMATCH
+529,t(2)-e(3) | .. vs ...,"అందుకే నువ్వు హాకీని ఆడటం మానేయాలి. రెండు గంటలకు నీకు ఓ పని ఉంది కదా, పద లారీ.","Which is why you should stop playing hockey. [sniffs] Come on, Larry. You got your two o'clock.",MISMATCH
+603,t(2)-e(4) | .. vs ....,"సోడియం హైడ్రాక్సైడ్, ఒక 5-10 శాతం ఉంటుంది, మోనోథనోలమీన్, ఇథైల్ ఆల్కహాల్. మహా విషపూరితమైనదిలే.","I'm talking sodium hydroxide, maybe 5% to 10%. Monoethanolamine. Ethyl alcohol. Super toxic.",MISMATCH

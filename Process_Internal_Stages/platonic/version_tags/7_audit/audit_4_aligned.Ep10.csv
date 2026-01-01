@@ -1,0 +1,24 @@
+Index,Details,Telugu,English,Status
+6,t(2)-e(3) | .. vs ...,"అవును, అదే తేడా ఉంది. అవును.","Yeah. Yeah, there's something wrong. Yeah.",MISMATCH
+14,t(3)-e(4) | ... vs ....,"ఓహ్, దేవుడా. ఈ ఇంటికి ఏం లోపం ఉందో దయచేసి చెప్పు, డయాన్. ప్లీజ్.","[chuckles] Aw. , my God. Just tell us what's wrong with it, Diane. Please.",MISMATCH
+46,t(6)-e(5) | ...... vs .....,"ఓహ్, దేవుడా. ఆమె చనిపోయింది. వావ్. ""సహజమైన సమస్యల కారణంగా."" చాలా ప్రశాంతంగా ఉంది. అంటే, నిజంగా చాలా ప్రశాంతం.",", God. She's dead. [smacks lips] Wow, ""Natural causes."" , very chill. Like, literally chill.",MISMATCH
+56,t(2)-e(3) | .? vs ..?,తప్పకుండా. గృహప్రవేశానికి విల్ ని ఆహ్వానిస్తున్నావా?,Sure. Sure. [chuckles] [chuckling] Are you inviting Will to the housewarming?,MISMATCH
+81,t(2)-e(3) | .. vs ...,"హేయ్, హాయ్. హాయ్.",Hey. Hi. Hi.,MISMATCH
+97,t(3)-e(4) | ..? vs ...?,"హేయ్. ఇలా వచ్చినందుకు థాంక్స్. హేయ్, ఏం జరుగుతోంది?","Hey. Thank you for swinging by. Hey. Hey, what's happening?",MISMATCH
+106,t(2)-e(3) | .. vs ...,అంతా ఎలా జరుగుతోంది? బాగానే ఉంది. నిజం.,How's How's everything going with that? It's good. It's good. Yeah.,MISMATCH
+128,t(3)-e(2) | ... vs ..,దాన్ని లాగమని వీడు చెప్పాడు. లేదు. నేను చెప్పలేదు.,"He told me to pull it. No, I didn't.",MISMATCH
+135,t(3)-e(2) | ..? vs .?,వద్దు. ఖచ్చితంగా వద్దు. నువ్వు సాయం చేస్తావా?,"No, absolutely not. Do you wanna help me?",MISMATCH
+211,t(3)-e(4) | ... vs ....,"సరే. మంచిది, స్వీటీ. దాని గురించి భయపడకు.","Okay. Okay. It's fine, sweetie. Don't worry about it.",MISMATCH
+214,t(3)-e(4) | ... vs ....,"లేదు. దయచేసి, వెళ్లద్దు. బహుశా అది గాలిపటమే కావచ్చు.","No, no. Please, please, don't go. Don't go. Maybe it was a kite.",MISMATCH
+217,t(3)-e(2) | ... vs ..,"నా ఉద్దేశం, మేము చూడలేదు యు.ఎఫ్.ఓ. ఐడియా బాగుంది. ఇది ఎలాగంటే.","I mean, we don't [chuckles] You know, the idea of a UFO is cool. It's like.",MISMATCH
+282,t(3)-e(2) | ... vs ..,"బాబు, నాకు పాప్ రాక్స్ అంటే ఇష్టం. ఎందుకంటే అవి తిరిగి పోరాడతాయి. మంచిది.","Man, I love Pop Rocks, 'cause they fight back. Great.",MISMATCH
+293,t(2)-e(3) | .. vs ...,సరే. సారీ.,"Okay, okay, okay. I'm sorry. I'm sorry.",MISMATCH
+330,t(3)-e(2) | ... vs ..,నేను ఆ జెనాకి ఇప్పటికే ఫోన్ చేశాను. తను ఇప్పుడు సి.ఇ.ఓ. అయింది.,I already called that lady Jenna. She's the CEO now.,MISMATCH
+360,t(2)-e(3) | .. vs ...,మీకు కొత్త చొక్కాలు ఇంకా సామాగ్రి కూడా కావాలి. ఇవన్నీ ఆర్.కెలీ దుస్తులు మాదిరిగా ఉంటాయి.,Need new shirts and shit too. It's like you're wearing R. Kelly merch.,MISMATCH
+411,t(4)-e(2) | .... vs ..,సరే. నేను వెళ్లాలి. ఆ క్యాటరర్ల కంటే ముందుగా నేను వెళ్లాలి. ఒక టై ఎంపిక చేయి.,"Okay, I gotta go, I gotta get there before the caterers. Pick a tie.",MISMATCH
+434,t(3)-e(2) | ... vs ..,అవును. నువ్వు సి.ఇ.ఓ. తో కలిసి ఉంటున్నావు అవును ఉంటున్నాను.,Yeah. Also you live with the CEO I do.,MISMATCH
+441,t(2)-e(3) | .. vs ...,అవును. నిజంగా.,Whoo. Yeah. [chuckles] [laughs] ! [gasps] For real.,MISMATCH
+445,t(2)-e(4) | .. vs ....,థాంక్యూ. చాలా ధన్యవాదాలు.,Thank you. Thank you so much. Aw. Aw.,MISMATCH
+455,t(4)-e(5) | .... vs .....,నిన్ను కలవడం సంతోషం. నిజం. నిన్ను కలవడం కూడా సంతోషంగా ఉంది. అవును.,[chuckles] It's good to see you. Yeah. Nice to see you too. Yeah. Yeah.,MISMATCH
+458,t(3)-e(4) | ... vs ....,అది నాకు వద్దు. నేను నీకు వివరించగలను. సారీ.,Ugh. I don't want this. I'm gonna lay it out for you. I'm sorry.,MISMATCH
+467,t(2)-e(3) | .. vs ...,అది అరాచకంగా ఉండేది. అది గొప్పగా ఉండేది.,It was wild. [laughs] It was awesome. It was awesome.,MISMATCH

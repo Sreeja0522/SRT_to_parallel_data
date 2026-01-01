@@ -1,0 +1,8 @@
+Index,Details,Telugu,English,Status
+66,t(3)-e(2) | ... vs ..,హలో. హలో. హాన్గ్వయర్ కి స్వాగతం.,"Hola, hola. Welcome to Hanguiar.",MISMATCH
+97,t(3)-e(2) | ... vs ..,"నువ్వు ఫిల్లిస్ ని కలిశావా, ఈ మధ్య లేదా లేదు. లేదు. కలిసి కలిసి చాలా కాలమైంది.","You seen Phyllis recently, or No. No, it's been a while.",MISMATCH
+112,t(5)-e(4) | ..... vs ....,"హా. ఆ, అలాగే. సరే. సరే. అలాగే.","All right. Yeah. Yeah, no, of course. Yeah.",MISMATCH
+345,t(3)-e(2) | ... vs ..,"సరే. మొదటి విషయం, ఇది భయంకరం. రెండోది, నేను.","Okay. A, this is terrifying, and B, I.",MISMATCH
+430,t(3)-e(2) | ??. vs ??,"నేను, ""ఆయన అలా ఎలా చేయగలరు? నాతో అలా ఎలా చేయగలరు?"" అని అనుకుంటున్నాను.","I keep thinking, ""How could he do that? How could he do that to me?""",MISMATCH
+540,t(3)-e(2) | ... vs ..,"హాయ్, ఆటమ్. మేరీ లూ. ఎంత బాగున్నావో.","Hi, Autumn. Mary Lou, look at you.",MISMATCH
+543,t(3)-e(2) | ... vs ..,గట్టిగా. ష్. వాళ్ళు బానే అంటున్నారు.,Louder. They're fine.,MISMATCH

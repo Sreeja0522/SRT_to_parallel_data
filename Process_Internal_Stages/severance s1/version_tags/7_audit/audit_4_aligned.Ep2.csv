@@ -1,0 +1,4 @@
+Index,Details,Telugu,English,Status
+307,t(2)-e(3) | .. vs ...,"అవును, మోంటానాలోని మా ఇంటి నుండి నేను మిన్నెసొటాకి వెళ్లినప్పుడు అది చాలా చల్లగా ఉండింది. అయితే, అవి రెండూ వేర్వేరు ప్రదేశాలు అన్నమాట.","Yes. Minnesota was very cold the one time I visited from my home in Montana. , so so those are different places.",MISMATCH
+328,t(2)-e(3) | ?. vs .?.,"బాసూ, మీరు వెట్టి చాకిరీ ద్వారా ప్రయోజనం పొందాలనుకుంటే, అది బాసూ, వెట్టి చాకిరీనా? అది మీ ఇష్టం.","Hey, man, you wanna benefit off forced labor, that's up Hey, man. Forced labor? then that's up to you.",MISMATCH
+411,t(2)-e(3) | .. vs ...,లేదులే. దానికి నిన్న బ్రేక్ రూమ్ లో అనుభవించేశాడు.,No. No way. He did his stint in the break room yesterday.,MISMATCH

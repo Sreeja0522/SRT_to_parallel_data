@@ -1,0 +1,20 @@
+Index,Details,Telugu,English,Status
+52,t(3)-e(2) | ... vs ..,నన్ను వదిలేయండి. వదిలేయండి. అయిపోయింది.,Get off! Get off me. [Dog] Over.,MISMATCH
+58,t(2)-e(3) | .. vs ...,"ఇతని దగ్గర ఏమీ లేదు. పరికరం కానీ, ఆయుధం కానీ ఏమీ లేదు.","[Cartwright] He's clean. There's no device, no weapon. Nothing.",MISMATCH
+90,t(2)-e(3) | .. vs ...,"లేదు, మేడమ్. వాళ్లు దార్లో ఉన్నారు.","No. No, ma'am. They're en route.",MISMATCH
+112,t(2)-e(3) | .. vs ...,"సోదరసోదరీమణులారా, దయచేసి ఇటు వైపుకు రండి. వీలైనంత వేగంగా నడవండి.","This way please. Ladies and gentlemen, this way. Quick as you can.",MISMATCH
+195,t(3)-e(2) | ??. vs ?.,జెడ్? ఆ బస్ స్టాప్ కి వచ్చే జనాలను కాస్త భయపెట్టకుండా ఉండరాదూ? ట్రాఫిక్ పోలీసులు అడుగుతున్నారు.,Jed? Transport police are asking if you can stop scaring people away from that bus stop.,MISMATCH
+213,t(3)-e(4) | ... vs ....,మన్నించండి. నేను చూసుకోలేదు. అయ్యయ్యో.,"I am so sorry. I'm so sorry. Sorry. , shit.",MISMATCH
+214,t(2)-e(3) | ?? vs ?.?,టవల్స్ కానీ న్యాప్ కిన్స్ కానీ ఇస్తారా? లేదా టిష్యూస్ అయినా ఇస్తారా?,Can I please have some towels? Okay. Can I just have some serviettes?,MISMATCH
+220,t(2)-e(3) | .. vs ...,"మ్యాక్స్, అది ఇవ్వు. తీసుకోండి.","Max, pass me that. [Theo] Take this. Take this.",MISMATCH
+372,t(4)-e(5) | .... vs .....,"""నీలి చొక్కా, తెల్లని టీ షర్ట్."" నువ్వు చెప్పింది అదే. తప్పు నీదే. నాది కాదు, నీదే.","""Blue shirt, white tee."" That's what you said. You fucked up. Yes, you did. Not me, you.",MISMATCH
+387,t(2)-e(3) | .. vs ...,"అవును. అది ప్రాక్టీసే, కానీ అదే నిజం అయ్యుమ్టే, అందరూ చచ్చుండేవాళ్లు.","Yeah. It was. It was an exercise, but if it had been real, they'd have died.",MISMATCH
+388,t(2)-e(3) | .. vs ...,నువ్వు చాలా పెద్ద పొరపాటు చేశావు. చాలా అంటే చాలా పెద్ద పొరపాటు.,You fucked up. Massively. Un-fucking-forgivably.,MISMATCH
+389,t(3)-e(2) | ... vs .?,నువ్వు నిజంగానే ఒకరిని గాయపరిచావు. ఒక్క నిమిషం. చూపిస్తాను ఆగు.,"[scoffs] And you did genuinely injure some of them. Wait, where is it?",MISMATCH
+495,t(2)-e(3) | .. vs ...,"అప్పుడు అతని వయస్సు, 56. గుండెపోటుతో మరణించాడు.",He was 56. Aneurysm. Gone.,MISMATCH
+552,t(2)-e(3) | .. vs ...,"సరే. కానీ ఒకటి తెలుసుకో, ఏదైనా జరిగితే దానికి బాధ్యుడివి నువ్వే అవుతావు.",Fine. But know this. There will be blood on your hands.,MISMATCH
+577,t(3)-e(5) | ... vs .....,ఎవరికీ తెలీదు. మంచిది. ఎవరికీ చెప్పకు.,No. No. Good. Good. Keep it that way.,MISMATCH
+620,t(2)-e(3) | .. vs ...,"వాళ్ల గురించి పట్టించుకోకండి, మిత్రులారా. వాళ్లని అంటు వ్యాధిలా చూడండి, చాలు.","Don't worry about them, guys. Don't worry. Just, Just treat them like an STD.",MISMATCH
+637,t(2)-e(3) | ?. vs ...,తొమ్మిది గంటలకా? లేదులే.,Nine o'clock. Nope. No.,MISMATCH
+655,t(2)-e(3) | ?? vs ???,ఈ సంఖ్యలో నిగుఢార్థం ఏమైనా ఉందా? పెన్ డ్రైవ్ లో ఇంకేమైనా ఫైళ్లు ఉన్నాయా?,Is there anything else behind it? Any other files on the stick? Anything?,MISMATCH
+711,t(2)-e(3) | .. vs ...,"పదండి. ఎవరి డెస్కుల వద్దకు వాళ్లు వెళ్లండి. పదండి, అందరూ పదండి!","Come on. Back to your desks. Come on, all of you. Out!",MISMATCH

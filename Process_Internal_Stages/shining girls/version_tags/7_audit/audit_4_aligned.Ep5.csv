@@ -1,0 +1,6 @@
+Index,Details,Telugu,English,Status
+258,t(2)-e(3) | .? vs ..?,వేరొకరు కూడా ఆ మార్పును గమనించారు. అయితే మరి నన్నెందుకు అడుగుతున్నావు?,Someone else was there. They saw it too. Then why are you asking me?,MISMATCH
+331,t(3)-e(4) | ... vs ....,"హేయ్, హేయ్. ఏమీ కాలేదు. ఏమీ కాలేదు.","Hey, hey. Hey, no. You're okay. You're okay, you're okay.",MISMATCH
+395,t(2)-e(3) | .. vs ...,దాన్ని వదిలేయ్. మోంట్రియల్ ఆల్బమ్ చూద్దాం.,", aw. No, leave that. Let's go back to the Montreal one.",MISMATCH
+479,t(2)-e(3) | .. vs ...,"ఏవీ సరిగ్గా గుర్తుండవు. కానీ ఇక్కడ ఉన్నారంటే, వీళ్ళ సమస్య చాలా తీవ్రమైనదని అర్థం, ఇంత మంది ఉన్నారు కనుక, వీళ్లందరినీ ప్రశాంతంగా.,","Mostly dementia, Alzheimer's. But if they're here, they're advanced. With this population, all we can really do is keep 'em calm.",MISMATCH
+559,t(2)-e(3) | .? vs ..?,అలాగే. ఏం చెప్పమంటావు?,Sure. I can do that. What do you want me to say?,MISMATCH

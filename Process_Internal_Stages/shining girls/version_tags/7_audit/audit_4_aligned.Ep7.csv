@@ -1,0 +1,9 @@
+Index,Details,Telugu,English,Status
+39,t(2)-e(3) | ?? vs ???,ఆడాలనుందా? దీన్ని విసిరిస్తే తెస్తావా?,Wanna play? Huh? You wanna fetch it?,MISMATCH
+61,t(2)-e(3) | .. vs ...,"లేదు, అతను నన్ను తాకలేదు. అతను నా కోసం రాలేదు.",No. He didn't touch me. He wasn't there for me.,MISMATCH
+220,t(2)-e(3) | .. vs ...,అదే. ఇప్పుడు నువ్వు చెప్పాలి.,There. That's it. That's your cue.,MISMATCH
+306,t(2)-e(3) | .? vs ..?,"నువ్వు, డాన్ అందుకు చప్పట్లు కొట్టారా! అవును. నువ్వు ఎందుకు కొట్టడం లేదు?",And you and Dan kept clapping for her. Yeah. Why aren't you?,MISMATCH
+311,t(2)-e(3) | .. vs ...,"నేను సమస్యలకు, గొడవలకు దూరంగా ఉంటాను. కొట్లాటలకు పోను.",I stay in flight. I don't cause arguments. I don't fight.,MISMATCH
+346,t(3)-e(4) | ... vs ....,"హేయ్, ఫ్రెడ్డీ. వెళ్దాం పద. మనం ఆఫీసుకు వెళ్లాలి.","[Dan] Hey, Freddie. Come on. Let's go. We have to go back to the office.",MISMATCH
+484,t(2)-e(3) | .. vs ...,"ఏమో మరి. నేను చాలా ప్రయత్నించా, కానీ వాళ్లది రావట్లేదు.",I don't know. I tried everything. It's not showing.,MISMATCH
+545,t(2)-e(3) | .. vs ...,అతను ఆ బారులోకే వెళ్లాడు. మీరు కూడా అక్కడి నుండే బయటకు వచ్చారు.,He was in the bar. That one. You just came out of there.,MISMATCH

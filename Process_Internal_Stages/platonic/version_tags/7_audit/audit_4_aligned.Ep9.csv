@@ -1,0 +1,27 @@
+Index,Details,Telugu,English,Status
+27,t(2)-e(3) | .? vs .??,ప్లాస్టిక్ ఫోర్క్ తో స్టీక్ మాంసం తినడాన్ని నేను మిస్ అవుతున్నాను. ఈ రోజు ఏదైనా ప్రత్యేకమైన సందర్భమా?,"I miss eating steak with a plastic fork. , special occasion, anyone? Ooh?",MISMATCH
+39,t(5)-e(6) | ?.... vs .?....,"ఒక విషయం చెప్పనా? వదిలేయ్. అర్ధరాత్రి చార్లీ. సరే, మిత్రులారా. నేను వెళ్లి కలుసుకోవాలి ""ఫ్రెండ్"" అందాము.","Ugh. You know what? Screw it. [Stewart, Vanessa laughing] Late-night Charlie. All right, guys. I gotta go meet a Let's say ""friend.""",MISMATCH
+45,t(5)-e(6) | ..... vs ......,సరే. ఇప్పుడు మనం మాట్లాడుకోవచ్చు. సరే. అవును. చాలా బాగుంది.,Okay. Now we're talking. Okay. Yes. Ooh. Very nice.,MISMATCH
+70,t(6)-e(7) | ...... vs .......,"ఓహ్, దేవుడా. అదీ. అదీ. నేను బహుశా వెళ్లాలి. అవును. నేను కూడా వెళ్లాలి.","[breathing heavily] , my God. Yeah. Yeah. Yeah. [panting] [Charlie panting] I should prob I should go. Yeah. I, um, me too. [clears throat]",MISMATCH
+71,t(2)-e(3) | .. vs ...,నేను ఇంక వెళ్లాలి. అవును.,I should go. I should go. Yes.,MISMATCH
+111,t(3)-e(4) | ... vs ....,వెనెసా. తను నీరసంగా నవ్వడం కూడా రానట్లు ఉంటుంది. తనకంటూ ఒక వ్యక్తిత్వం లేనిది.,Vanessa. She's so dull and humorless. Ugh. She's like wallpaper.,MISMATCH
+117,t(3)-e(4) | ... vs ....,"మార్నింగ్. పిల్లలు తిని, ముస్తాబయ్యారు, వాళ్ల తలలు దువ్వాను. వాళ్లని స్కూలులో దిగబెడతాను.","[Sylvia] Morning. Morning. Kids are fed and dressed, and their hair is brushed. I'm gonna drop them off.",MISMATCH
+196,t(2)-e(3) | .. vs ...,లేదు. నేను బాగానే ఉన్నాను.,"No, no, no. I'm okay. I'm okay.",MISMATCH
+201,t(3)-e(4) | ..? vs ...?,బాగానే ఉన్నాను. కేవలం చిన్న గాయం. నువ్వు ఇక్కడ ఏం చేస్తున్నావు?,Yeah. I'm fine. Just paper cut. What are you doing here?,MISMATCH
+217,t(4)-e(5) | ..?. vs ..??.,"ఓహ్, అలాగే. చూశాను. హేయ్, పిల్లలు ఎక్కడ? పిల్లలు.","[Sylvia chuckles] , right. I see. Hey, where are the kids? Huh? The kids.",MISMATCH
+223,t(2)-e(3) | .. vs ...,"సరే, తప్పకుండా. అలాగే.","Okay, sure. Okay. Okay.",MISMATCH
+239,t(4)-e(3) | ..?. vs .?.,"అయితే, నేను బహుశా మంచం ఎక్కేయాలి అనుకుంటా. అర్ధరాత్రి రెండు గంటలకు నేను లేవాల్సి రావచ్చు. నేను వెళ్లనా? ఇప్పుడు టైమ్ 9.23 గంటలు అయింది కాబట్టి అప్పుడే పడుకుంటారని అనుకోలేదు, కానీ.","[inhales sharply] So, , I think I'll probably, [yawns] hit the hay. Um, in case I get woken up at 2:00 a.m. , should I, , should I get going? I didn't realize it was bedtime 'cause it's 09:23, but, um.",MISMATCH
+261,t(2)-e(3) | .. vs ...,ఆ శబ్దం వింటుంటే నీ చేతుల్ని హస్తప్రయోగం చేసుకుంటున్నట్లు ఉంది. ఆడవాళ్లు రాసుకునే క్రీముల గురించి మాట్లాడకు.,Sounds like you're jerking off your arms over there. Ew. Leave a woman to her creams.,MISMATCH
+263,t(2)-e(3) | .. vs ...,"నేను ఈ రోజు ఒంటరిగా ఉండి ఉంటే, ఆ మానసిక స్థితి కన్నా ఇప్పుడు ఎక్కువ సంతోషంగా ఉన్నాను. అవును, ఎప్పుడూ ఒంటరిగా ఉండకూడదు అనడానికి అదే కారణం.","I'm in such a better mood than I would've been if I was alone all day. Aw. Yeah, that's the thing about never being alone.",MISMATCH
+269,t(2)-e(3) | .. vs ...,డొరిటోసారస్. డొరిటోసారస్.,"Doritosaurus. Doritosaurus. Doritosaurus. [growls, chuckles]",MISMATCH
+276,t(3)-e(2) | ... vs ..,"దాన్ని మీరు ఎ.డి.యు. కింద, అంటే అదనపు నివాస గృహం కింద మార్చుకోవచ్చు. అంటే, ఒక చిన్న గెస్ట్ హౌస్ మాదిరిగా.","You could turn it into an ADU, like an additional dwelling unit. , you know, like a little guesthouse kinda thing.",MISMATCH
+288,t(3)-e(2) | ... vs ..,"వావ్. నిన్ను చూడాలి. నువ్వు, అంటే, ఒక రహస్యమైన మనిషిలా ఉన్నావు.","Wow, look at you. You're, like, a secret man.",MISMATCH
+308,t(7)-e(8) | ....... vs ........,"అవును. బాగుంది. చక్కగా ఉంది. ""ఆర్"" అంటే రాండో. గమ్మీలు మెల్లగా మత్తు ఎక్కిస్తున్నాయి. హేయ్. ఆ చూయింగ్ గమ్ లు మత్తెక్కిస్తాయి, యో.","Yes. , good. Perfect. ""R"" for Rando. [laughing] Whoa. Gummies are starting to hit. Hey. Those gummies be hittin', yo.",MISMATCH
+346,t(3)-e(4) | ... vs ....,"నాకు అర్థమైంది. నాకు అర్థమైంది. హేయ్, మీకు అర్థమైంది.","[chuckling] I do. I do. I do. Hey, you do get it.",MISMATCH
+434,t(2)-e(3) | .. vs ...,మరేం ఫర్వాలేదు. వాటిని మళ్లీ ఏర్పాటు చేయచ్చు.,Huh. It's okay. We can We can reinforce them.,MISMATCH
+451,t(2)-e(3) | .. vs ...,దీనికి బిల్డింగ్ పర్మిషన్ ఉందని అనుకోను. నేను ఊహించినది ఇది కాదు.,I don't think this was permitted properly. [Sylvia] an earthquake. This is not what I expected.,MISMATCH
+501,t(2)-e(3) | .. vs ...,నా ప్రామిస్. కాబట్టి.,[chuckles] I promise. I promise. [chuckles] So.,MISMATCH
+508,t(2)-e(3) | .. vs ...,"ఓహ్, దేవుడా. వీడు మళ్లీ వచ్చాడు.",", my God. This guy again. Aw.",MISMATCH
+509,t(3)-e(5) | ... vs .....,"వీడే, హా? ముద్దుగా లేడు. ఇది ముద్దుగా ఉంది. ఇది ముద్దుగా ఉంది, నిన్ను పట్టుకున్నాను.","This guy, huh? , it's not cute. Aw. , it's cute. It's cute. [strains] It's cute, and I got ya.",MISMATCH
+510,t(2)-e(3) | .. vs ...,నువ్వు ముద్దుగా ఉన్నావు. నువ్వు ముద్దుగా ఉన్నావు.,You're cute. Aw. You're cute.,MISMATCH
+529,t(3)-e(2) | ... vs ..,"కాదు, బాబు. అతని పేరు క్లార్క్. కేవలం వినడం కోసం వచ్చాడు.","Nah, dude. Clark, he's just here to listen.",MISMATCH

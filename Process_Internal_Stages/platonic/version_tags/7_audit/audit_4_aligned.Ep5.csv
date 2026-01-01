@@ -1,0 +1,24 @@
+Index,Details,Telugu,English,Status
+4,t(3)-e(2) | ... vs ..,నీకు చెబుతున్నాను. ఇది ఎదురుచూడదగినదే. సరే.,"I'm telling you, it's worth the wait. Okay.",MISMATCH
+27,t(3)-e(4) | ... vs ....,"ఓహ్, దేవుడా. ఇక్కడ మొదలుపెట్టు. సరే.",", my God. Start here. Okay. Okay.",MISMATCH
+36,t(2)-e(3) | .? vs ..?,"ఓహ్, దేవుడా. ఏంటి?",", my God. , my God. What?",MISMATCH
+59,t(5)-e(4) | ..... vs ....,ఆరీ లెనక్స్ ఉందని నాకు తెలియదు. ఆరీ లెనక్స్ అనే గాయని ఉంది. ఇంకా ఆమె చాలా బాగా పాడుతుంది. వావ్. మంచిదే.,"I didn't know we got an Ari Lennox now. , we have an Ari Lennox and she's really good. Wow. Good for her.",MISMATCH
+109,t(4)-e(5) | ...? vs ....?,"ఇక్కడ ఏదో హెయిర్ సెలూన్ ఉన్నట్లుంది. హాయ్. హేయ్, హాయ్. ఎలా ఉన్నావు?",It's like a hair salon in here. Hi. Hey. Hi. How are you?,MISMATCH
+111,t(3)-e(4) | ... vs ....,"ఏమీ లేదు! ఓహ్, దేవుడా. దేని గురించి లేదు. ఒక చెత్త పిచ్చి జోక్.",", nothing. Nothing! , my God. Absolutely nothing. A bad stupid joke.",MISMATCH
+120,t(3)-e(4) | ... vs ....,నేను ఏం అంటున్నానో తెలుసా? బారన్ కి వెళ్తున్నాం. పద. బాగుంది.,Know what I'm saying? Go up to Byron. [Sylvia chuckles] Come on. Nice. Nice.,MISMATCH
+140,t(3)-e(4) | ... vs ....,ఎందుకంటే నువ్వు ఇలాగే చాలా చక్కగా ఉన్నావు. నువ్వు చాలా ముద్దుగా ఉంటావు. సరే.,Because you're perfect the way you are. Okay. Okay. You're so cute.,MISMATCH
+247,t(2)-e(3) | .. vs ...,నువ్వు మాట్లాడాలి. అవును.,You should. Yeah. Yeah.,MISMATCH
+281,t(5)-e(4) | ..... vs ....,"తీసుకోండి. కొరకండి. చార్లీ, వద్దు. చార్లీ. అలా చేయద్దు.","Get it. Get in there. Charlie, no, Charlie. That's not a thing.",MISMATCH
+289,t(2)-e(4) | .. vs ....,లెన్సులు మారుస్తున్నాను. సరే.,Switching lenses. Switching lenses. Switching lenses. Okay.,MISMATCH
+291,t(3)-e(4) | ... vs ....,ఇదిగో తీస్తున్నా. పట్టుకుని ఉండండి. తీస్తున్నా.,Here we go. Hold it. Hold it. Here we go.,MISMATCH
+297,t(4)-e(5) | .... vs .....,అలాగే. థాంక్స్. మళ్లీ చేద్దాం. ఇదిగో తీసుకో.,All right. All right. Thanks. Let's do it. Here we go.,MISMATCH
+303,t(4)-e(5) | .... vs .....,ఇదిగో. సరే. థాంక్యూ. ఈ ఫోటో చక్కగా ఉంది.,"[colleagues] Aw. [Stewart] There you go. Okay. Thank you. , that's a good picture.",MISMATCH
+314,t(2)-e(3) | .. vs ...,హేయ్. హలో.,Hey. Hey. Hello.,MISMATCH
+341,t(3)-e(4) | ... vs ....,అవును. ఇప్పుడు నీకు అర్థం అవుతోంది. నువ్వు దాదాపు దారిలోకి వస్తున్నావు.,Yes. Yes. Now you're getting it. You're starting to come around.,MISMATCH
+451,t(2)-e(3) | .. vs ...,రహస్య కళలు. రహస్య కళలు.,Secret skills. Secret skills. Secret skills.,MISMATCH
+452,t(2)-e(4) | .. vs ....,హేయ్. ఆగు.,"Hey, hey, hey. Wait. Wait. Wait.",MISMATCH
+458,t(4)-e(5) | .... vs .....,"యో, ఆగు. ఇంక చాలు. ఆపు. యో, ఆగు.","Yo, chill. Big deal. Stop. Yo, chill. Chill.",MISMATCH
+492,t(2)-e(3) | .. vs ...,నేను అబద్ధం చెప్పలేదు. కొద్దిగా.,I did not lie. Little bit. Little bit.,MISMATCH
+514,t(2)-e(3) | .. vs ...,"బూ. బూ, బూ, బూ.","Boo. , boo. Boo, boo, boo.",MISMATCH
+572,t(2)-e(3) | .? vs ..?,"నాకు గాభరాగా ఉంది. దీన్ని ఇలాగే ఉంచాలా, బయట లాగేయాలా?",I'm panicking. I'm panicking. Do I leave it in or take it out?,MISMATCH
+649,t(2)-e(3) | .. vs ...,నేను కనీసం కొకైన్ కూడా తీసుకోకూడదు. నేను నాకు తెలుసు.,I should never even tried the coke. I I know. I know.,MISMATCH

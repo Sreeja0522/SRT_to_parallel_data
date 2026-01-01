@@ -1,0 +1,19 @@
+Index,Details,Telugu,English,Status
+4,t(3)-e(2) | ??. vs ..,"మనం సీక్రెట్ ఇంటెలిజెన్స్ లోనే ఉన్నా, మనకి ఏమీ తెలీని ప?? ఆ వెధవులు అతడిని చంపేస్తారన్నది మాత్రం మనకి తెలుసు కదా.","I mean, we're behind the scenes, and we know nothing. [BREATHES DEEPLY] Well, we know the bastards are gonna kill him.",MISMATCH
+23,t(2)-e(3) | .? vs ..?,"అవును. అంటే, ఇక్కడ తాగడం కన్నా అక్కడికి వెళ్లడమే మంచిది ?","Yeah. Okay. Well, I mean, it's better than getting pissed here, isn't it?",MISMATCH
+61,t(4)-e(5) | .... vs .....,"అంటే, ఇందాక ఏదైతే చేస్తున్నామో అదే చేయవచ్చు అనుకుంటా. ఓరి దేవుడా. అర్థమైందిలే. ప్రాధ్యాన్యతలు ముఖ్యం.","Well, I mean, I'd rather be doing what we were just doing. [SCOFFS] God. All right. Of course. Priorities.",MISMATCH
+87,t(3)-e(2) | .?? vs ..,"డాక్టర్ లారెన్స్, మూడవ ఆపరేషన్ థియేటర్ కి రండి. అత్యవసర??","[HOSPITAL ANNOUNCER] Dr. Lawrence, come to surgical three. Non-emergency.",MISMATCH
+89,t(3)-e(2) | .?? vs ..,"డాక్టర్ లారెన్స్, మూడవ ఆపరేషన్ థియేటర్ కి రండి. అత్యవసర??","Dr. Lawrence, come to surgical three. Non-emergency.",MISMATCH
+111,t(3)-e(2) | .?? vs .?,తను చనిపోయే స్థితిలో ఉంది అనుకున్నా. తనను అలా వదిలేసి ఎ??,"I thought she was dying. I'm not just gonna fucking leave her there, am I?",MISMATCH
+152,t(2)-e(3) | .. vs ...,నాకు తెలీదు. వాడి ముఖం కనిపించకుండా మాస్కు ఇంకా టాక్టికల్ గేర్ ని వేసుకొని ఉన్నాడు.,I don't know. I couldn't see his face. He had a balaclava on and tactical gear.,MISMATCH
+170,t(2)-e(3) | .? vs .??,"అదే తుపాకీతో సిడ్ బేకర్ ని కాల్చాడు. ఏంటి, సిడ్ ని చంపేశ?","Shot Sid Baker with it. What, he killed Sid? Why?",MISMATCH
+171,t(2)-e(3) | .. vs ...,"లేదు. తనకి ఏమీ కాలేదు, బతికే ఉంది.",No. She's She's fine. She's alive.,MISMATCH
+324,t(3)-e(2) | .?? vs ..,నువ్వు ఈ సమాచారాన్ని చెప్పేయాలి. వాళ్ల మధ్య ఒక ఏజెంట్ ఉ??,You have to get the word out. A spy's in their midst.,MISMATCH
+329,t(3)-e(2) | ??. vs ..,"నేను పైకి వెళ్లిన మరుక్షణం, నువ్వు ఇక్కడి నుండి వెళ్లిపోవాలి, లేదా సెబ్ చేత మెడ పట్?? ర్యాలీలో నువ్వు పాల్గొన్న ఫోటో నా దగ్గర ఉంది.","The second I go upstairs, you get the fuck out of here, or I'll have Seb drag you out. I have the photo of you at the rally.",MISMATCH
+344,t(3)-e(2) | .?? vs ..,"అది మరీ దారుణంగా అంచనా వేసినట్టున్నావు. నన్ను అడిగితే, ??",That's a hell of a gamble. I wouldn't fancy your odds.,MISMATCH
+462,t(4)-e(3) | ..?? vs ...,అది నీకు తీరని బాధను కలిగిస్తుంది. ఈ విషయంలో నువ్వు కూడా నాతో ఏకీభవిస్తున్నావని తెలుసు. నిన్ను ఒప్పించడానికి ఆ ఫోటోను ఉపయోగించాలని నాకు అస్సల??,And that will pain you. And I know that you're with me on this. [WATER RUNNING] [POTS CLATTERING] Now I don't want to have to use that photo to make you do this.,MISMATCH
+482,t(2)-e(5) | .. vs .....,"వీడు మామూలోడు కాదు, పరమ దరిద్రుడు వీడు, అవును. ఇప్పుడు ఇక ఎక్కడికీ పారిపోలేడులే, కాబట్టి మీలో ఎవరైనా పడుకోవచ్చు, లేదులే, ఇక నాకు నిద్ర పట్టదు.","He is a horrible, slippery little prick. Yeah. Well, he's not goin' anywhere now, so if either of you wanna doze off. Nah. I'm pretty wired now.",MISMATCH
+484,t(2)-e(3) | .. vs ...,శాంతించు. అంతా త్వరలోనే జరుగుతుంది.,[MOE] Easy. All in good time. All in good time.,MISMATCH
+516,t(4)-e(3) | ..?? vs ...,కానివ్వండి. ల్యాంబ్ తలుపు తడతాడు. మిగతా పని మీరు చూసుకో??,Proceed. Lamb will knock. You clean up.,MISMATCH
+539,t(4)-e(5) | ..?. vs ...?.,వెధవ వేషాలు వేయకు. తల ఊపు. నా మాటలు నీకు వినబడుతున్నాయని చూశారా? వీడికి ఏం కాలేదు.,Don't piss about. Nod. I know you can hear me. [WHIMPERS] See? He's fine.,MISMATCH
+594,t(3)-e(2) | .?? vs .?,బాబోయ్. కేవలం తలుపు తీసే పనైతే మీరు తుపాకీ ఎందుకు తీసుక??,Whoa. Why are you takin' a gun if you just have to knock on the door?,MISMATCH

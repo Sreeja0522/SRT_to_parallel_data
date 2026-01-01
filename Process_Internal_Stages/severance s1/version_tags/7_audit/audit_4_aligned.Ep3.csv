@@ -1,0 +1,9 @@
+Index,Details,Telugu,English,Status
+51,t(3)-e(2) | ... vs ..,చూడు. నాకు ఒక శాఖ గురించి తెలిసింది. దాని గురించి మనకు ఏమీ చెప్పరు.,"Look, I I found a department. One they don't tell us about.",MISMATCH
+99,t(2)-e(3) | .. vs ...,"అయ్యో, మార్క్. పర్వాలేదులే.","I'm sorry, Mark. No, no, no. No.",MISMATCH
+186,t(3)-e(2) | .?? vs .?,"సరే, రెండు విషయాలు అడుగుతాను. ప్రస్ఫుటంగా కనబడేలా ఎలా గీస్తావు? ఇంకోటి, నీ డ్రెస్ ఏంటి అలా ఉంది?","Kay, two things. How do you know what cubist form is [chuckles] and what the fuck are you wearing?",MISMATCH
+429,t(2)-e(3) | .. vs ...,"చరిత్ర మనకి ఒక గుర్తింపును ఇస్తుంది. మనకి సందర్భాన్ని, రూపును ఇస్తుంది.",History makes us someone. Gives us a context. A shape.,MISMATCH
+448,t(2)-e(3) | .. vs ...,"దేవుడా. కాదు, కియర్.",Jesus. No. Kier.,MISMATCH
+565,t(2)-e(3) | .. vs ...,బాత్రూమ్ రోబ్ లో వచ్చాడంటే ఇక్కడి వాడే అయ్యుంటాడు. అంతే తెలుస్తోంది.,[officer 1] I guess he's from nearby. He came in with a robe on. That was it.,MISMATCH
+569,t(4)-e(7) | ...? vs ......?,"బాబోయ్. అతను కుప్పకూలిపోయాడు. సర్, సర్. నా మాటలు మీకు వినిపిస్తున్నాయా?","[EMT 1] Whoa, whoa, whoa. He's down. He's down. [EMT 2] Whoa, whoa, whoa. Sir. Sir, sir, sir. Can you hear me?",MISMATCH
+575,t(2)-e(3) | ?. vs ??.,మీరు బాగానే ఉన్నారా? బండి ఎక్కించండి.,[officer 2] You okay? You okay? [EMT 1] Get him on the board.,MISMATCH

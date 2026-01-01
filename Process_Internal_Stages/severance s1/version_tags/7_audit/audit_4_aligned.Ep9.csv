@@ -1,0 +1,10 @@
+Index,Details,Telugu,English,Status
+45,t(3)-e(2) | ... vs ..,"అవును. నేను ఆ, మన్నించు. ఆ.","Right. Yeah, I'm sure , sorry.",MISMATCH
+53,t(2)-e(3) | .. vs ...,చాలా త్వరగా వచ్చేస్తాలే. ఆ అలాగే.,I'll be really fast. Okay. Okay.,MISMATCH
+67,t(3)-e(2) | ... vs ..,"ప్యాటన్, వద్దు. ఆ, మార్క్. ఇప్పుడు జరిగే కార్యక్రమం తర్వాత పాపని అందరికీ పరిచయం చేస్తే బాగుంటుందేమో అని మేమిద్దరం మాట్లాడుకుంటున్నాం.","Patton, no. Um, Mark, we were just discussing whether it might have been a wiser move for your sister to put off introducing the child until after tonight's event.",MISMATCH
+69,t(2)-e(3) | .? vs .??,ఆ పాప చాలా పద్దతి గలది అని తెలిసిపోతుంది కదా. ఒక్క నిమిషం పాపతో ఉన్నది నా అక్కనా?,Obviously the child is an absolute angel. Wait That's my sister? With the baby?,MISMATCH
+191,t(2)-e(3) | ?? vs ???,నీకు ఆ వింత తుమ్మెదలు గుర్తున్నాయా? నీ దగ్గర ఆ ఫోటో ఉందా?,You remember the funny bees? [laughs] Do you have that on you? The picture?,MISMATCH
+192,t(4)-e(5) | .... vs .....,"ఉంది. ఆ ఆ, రికెన్. నీళ్లు మరిగించాను. ఓహ్, థ్యాంక్యూ, బాల్ఫ్.","Yeah, sure. I should. [inhales sharply] Um , Ricken. The neti pot is warm. , thank you, Balf.",MISMATCH
+198,t(3)-e(2) | ..? vs .?,"ఓహ్. ఆ, ఇందాక నువ్వు నన్ను హత్తుకున్నప్పుడు, హఠాత్తుగా నువ్వు బిగుసుకుపోయావు. ఏమైంది?","[chuckles] Um, when you hugged me before, you suddenly became tense. What was that?",MISMATCH
+275,t(2)-e(3) | .. vs ...,"ప్రసంగం. హా, అది బాగానే ఇవ్వగలను.",For my speech. Yeah. Of course.,MISMATCH
+363,t(2)-e(3) | ?? vs ???,ఏమైంది? మిసెస్ సెల్విగ్ ఇక్కడే ఉందా?,What? Is she there? Is Mrs. Selvig there?,MISMATCH

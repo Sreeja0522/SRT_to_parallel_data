@@ -1,0 +1,5 @@
+Index,Details,Telugu,English,Status
+12,t(2)-e(3) | .. vs ...,"హేయ్, హలో. నేను ఆర్డర్ సరే.","Hey, hello. I wanna place Yeah. Okay.",MISMATCH
+64,t(3)-e(2) | ... vs ..,"హా. ఇప్పుడేగా వసంతం మొదలైంది. కొత్త చిగురు పూస్తుంది, జనాలు చంపుకుంటారు.","Yeah. First warm week of spring, Asters bloom, people kill each other.",MISMATCH
+249,t(2)-e(3) | .. vs ...,హాయ్. హాయ్.,Hi. Hi. Hey.,MISMATCH
+458,t(2)-e(4) | .. vs ....,నాకు ఓపిక లేదు. ఇవాళ నేను ఇక ఎవరితోనూ మాట్లాడలేను.,[Raymon] No. I'm done. I'm tired. I can't do this anymore today.,MISMATCH

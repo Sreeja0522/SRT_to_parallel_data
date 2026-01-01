@@ -1,0 +1,16 @@
+Index,Details,Telugu,English,Status
+12,t(2)-e(3) | .. vs ...,"నువ్వు ఖచ్చితంగా అదరగొట్టేస్తావు. థాంక్యూ, బేబీ.","You are gonna knock it out of the park. Aw. Thank you, baby.",MISMATCH
+27,t(3)-e(2) | ... vs ..,అవును. ఆహ్ హా. నేను ఈ సందర్భం కోసం కలలు కన్నాను.,Yeah. This is the moment I've been dreaming of.,MISMATCH
+28,t(3)-e(4) | ... vs ....,"సరే. హాయ్.ఆంజీ, ఆంజీ! సారీ. త్వరగా చెప్పేస్తాను.","Okay. [chuckles] Hi. Angie, Angie! [Angie] So sorry. Um, just quickly.",MISMATCH
+144,t(3)-e(5) | ... vs .....,సరే.మీరు సరిగ్గా ఇక్కడ కూర్చోవాలి. మంచిది. అది మీ ఆఫీస్.,"Okay. , you are actually right in here. Good. That's your office. Yeah.",MISMATCH
+148,t(5)-e(3) | ..... vs ...,హాయ్. హేయ్. హేయ్. నా పేరు జాష్ స్టెర్న్. స్టార్ కిబుల్ ఇంకా సూయెట్ స్వీట్స్ ఎమ్ అండ్ ఎలో నేను జూనియర్ భాగస్వామిని.,"[phone beeps] [squeaks] [knock on door] Hi. Hey. I'm Josh Stern, junior partner on the Starr Kibble and Suet Sweets M&A.",MISMATCH
+233,t(2)-e(3) | ?. vs .?.,"అవును, నువ్వు బాగానే ఉన్నావా? అవును, బాగానే ఉన్నాను.","Yeah. You good? Yeah, I'm good.",MISMATCH
+261,t(4)-e(5) | .... vs .....,"అది సరే, ఇంకా ఘోరంగా ఉంది. దారుణం. ఇంక ఆపు, నా నుండి నువ్వు ఏం కోరుకుంటున్నావో నాకు తెలియడం లేదు. ఇది నీ పొరపాటే.","Ooh, that is Okay, that's worse. Worse. Just stop it, just stop it. I don't know what the fuck you want from me. This is your fault.",MISMATCH
+278,t(2)-e(3) | .. vs ...,అవును. మా బంధాన్ని మళ్లీ బలపర్చుకుంటున్నాం.,Yeah. You know. Re-Rebuilding bridges.,MISMATCH
+286,t(2)-e(3) | .? vs ..?,"సరే, ఇప్పుడు నాకు ఒకటి కావాలి. చూశావా? లియామ్ నీసన్ సినిమా టేకెన్ లో సన్నివేశం లాంటిది నీకు కూడా ఎదురయితే, ఓహ్, దేవుడా. ఇప్పుడు ఆడ్రే దగ్గర పోర్ష్ కారు ఉందా?","Well, now I want one. See? If you ever find yourself in a Liam Neeson Taken scenario, come here. [car horn honking] , my. Audrey has a Porsche now?",MISMATCH
+367,t(2)-e(3) | .. vs ...,"నేను అతనితో సెక్స్ చేయలేదు, దేవుడా. హేయ్, నువ్వు చేశావని నేను అనడం లేదు.","I didn't fuck him. Jesus. Hey, I wasn't suggesting you did it.",MISMATCH
+466,t(4)-e(3) | .... vs ...,ఇంకా మనం మన నిపుణుల బృందం సూచనలు విన్నాం సారీ. హేయ్. హెచ్.ఆర్. విభాగం నుండి జెసికా నీ కోసం చూస్తోంది.,"And we've, [mouthing] Sorry. heard from the due diligence team Hey. , Jessica from HR is looking for you.",MISMATCH
+475,t(2)-e(3) | .. vs ...,అది చాలా అందమైన పెయింటింగ్. గొప్పగా ఉంటుంది.,"Ooh. That's a lovely painting, by the way. Gorgeous.",MISMATCH
+484,t(3)-e(2) | ... vs ..,చాలా సారీ. చాలా సారీ. నేను కేవలం నేను.,I'm so sorry. I'm so sorry. I just I c [sighs],MISMATCH
+501,t(3)-e(4) | ... vs ....,మీరు అద్భుతంగా ఉన్నారు. చాలా ధన్యవాదాలు. ఫర్వాలేదు.,You've been terrific. Thank you so much. Aw. All right.,MISMATCH
+502,t(2)-e(3) | ?. vs .?.,తలుపు తెరిచే ఉంచనా? తెరిచే ఉంచచ్చు.,Whew. Phew! [chuckles] [Jessica chuckles] Leave it open? You can leave it open.,MISMATCH

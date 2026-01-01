@@ -1,0 +1,7 @@
+Index,Details,Telugu,English,Status
+4,t(2)-e(3) | .. vs ...,"సరే మరి, రేడార్. ఇక వెళ్దాం పద.","All right, Radar. Okay, come on. Let's go.",MISMATCH
+225,t(2)-e(3) | .. vs ...,"గుర్తుంచుకో, నువ్వు ఇంకే డిపార్టుమెంట్ల జోలికి వెళ్లకు, కేవలం మా ముగ్గురినే. తెలుసు.","Okay, look, you don't mess with any other departments. It's just us three. I know.",MISMATCH
+314,t(2)-e(3) | .. vs ...,అయ్యయ్యో! అవును. నన్ను మన్నించు.,"Okay, shoot! Indeed. Yeah, I'm sorry. I.",MISMATCH
+317,t(2)-e(3) | .. vs ...,నీకు వెళ్లి తీసుకురావాలనుంటే తప్ప. అంటే మిత్రులారా.,Unless you want to. Well My friends. Aw.,MISMATCH
+336,t(2)-e(3) | .. vs ...,భలేదానివే. రాకుండా ఎలా ఉంటాను! దగ్గరికి రా.,"Yeah, of course. Yeah. Come here.",MISMATCH
+358,t(3)-e(2) | ... vs ..,"""ఫంక్షన్."" పుచుక్. ఫంక్షన్స్.","""Function."" Boom.",MISMATCH

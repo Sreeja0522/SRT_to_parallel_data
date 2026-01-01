@@ -1,0 +1,15 @@
+Index,Details,Telugu,English,Status
+13,t(2)-e(3) | .. vs ...,"మనం జాన్ విక్ చూడటం లేదు, సైమన్. లేదు, మనం చూడటం.","We're not watching John Wick, Simon. No. We're not watching.",MISMATCH
+72,t(3)-e(2) | ... vs ..,సరే. అవును. నువ్వు దగ్గరలో ఉంటే.,"Okay. Yeah. If, If you're around,",MISMATCH
+156,t(3)-e(4) | ... vs ....,ఆమె ఇప్పటికీ ఆకర్షణీయంగా ఉంది. ఆరోగ్యంగా ఉంది. ఒక మహిళ శరీరం తీరు బట్టి ఆమెకి ఎంతమంది పిల్లలు ఉన్నారో మనం చెప్పగలం అని నేను అనుకోను.,"Couldn't tell with that body. Good for her. Whoa, whoa. I don't think you can tell how many kids someone has just from the way their body looks.",MISMATCH
+213,t(2)-e(3) | .? vs ..?,"అవును, ఇక్కడే ఉన్నాను. నీకు నేను కనిపించలేదా?",Yeah. I'm here. Can't you see me?,MISMATCH
+243,t(4)-e(6) | .... vs ......,బార్ ముందుకు తీసుకువెళ్తాను. థాంక్స్. థాంక్స్. సరే.,"Okay. I can get you to the front. , thanks. Thanks. Yeah. Yeah.",MISMATCH
+265,t(2)-e(3) | .. vs ...,సారీ. కాస్త దోబూచులాట.,Sorry. Little do-si-do. [chuckles] [chuckles] Okay.,MISMATCH
+299,t(2)-e(3) | .? vs ..?,నిదానించు. నీకెంత ధైర్యం?,"[investor] Chill. [Will] Shut up. Hey, how dare you?",MISMATCH
+351,t(2)-e(3) | .. vs ..?,నేను ఇప్పుడు కష్టపడుతున్నాను. అదరగొడుతున్నాను.,"I'm working right now. I'm killing it. Putting in overtime, you know?",MISMATCH
+358,t(2)-e(3) | .. vs ...,"అవును, నువ్వు తొక్కి పడేశావు. అవును, అవును.","Yeah, you crushed it. Yeah, yeah. Um.",MISMATCH
+446,t(2)-e(3) | .. vs ...,"హాయ్, బుజ్జి పాప. హాయ్, నేను దీనికి డబ్బులు ఇచ్చాను.","Hi, sweet girl. Hi. I paid for this.",MISMATCH
+467,t(2)-e(3) | .. vs ...,తండ్రిగా బాధ్యతలు కూడా బాగా తీసుకుంటాడు. నాకు అసలు ఏమీ అర్థం కాలేదు.,So good at being a dad. He's good at being a dad. [speaks indistinctly] I didn't understand that at all.,MISMATCH
+487,t(5)-e(4) | ..... vs ....,అది మరీ ఎక్కువ సేపు. అది చాలా ఎక్కువ సేపు. నిజంగా చాలా ఎక్కువ సేపు. ఇదిగో ఖచ్చితంగా. త్వరగా విషయం చెప్పు.,It's too long. It really is too long. Here's Exactly. Wrap it up.,MISMATCH
+510,t(5)-e(6) | ..... vs ......,దానికే వచ్చాను. ఈ విషయంలో నీకు పూర్తి సాయం చేస్తాను. నేను విషాదంలో ఉన్నాను. నాకు నువ్వు కావాలి. వెళ్లకు.,I am. I'm totally in this with you. I am. I'm so depressed. I need you. Don't go.,MISMATCH
+553,t(2)-e(3) | .. vs ...,"ఉంటాను, దొబ్బేయ్. అలాగే, దొబ్బేయ్.","Bye. Fuck you. Yeah, fuck you.",MISMATCH

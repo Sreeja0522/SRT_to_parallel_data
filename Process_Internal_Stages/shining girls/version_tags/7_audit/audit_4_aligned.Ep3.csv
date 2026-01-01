@@ -1,0 +1,4 @@
+Index,Details,Telugu,English,Status
+190,t(2)-e(3) | .. vs ...,"నువ్వు రానిచ్చావు. లేకపోతే, నేను ఇక్కడి దాకా వచ్చేవాడినే కాదు, నాకు అర్థం కావట్లేదు.","Yes, you did. Otherwise, we wouldn't be here. I don't understand.",MISMATCH
+242,t(2)-e(3) | .. vs ...,సరే. ఉంటాను.,Okay. Yeah. I'll see ya.,MISMATCH
+337,t(5)-e(6) | ..... vs ......,"కేరన్ పొలాచెక్, 1974. సాక్ష్యులు ఎవరూ లేరు. తన శవం బాయిలర్ గదిలో ఉండింది, తనకి పెళ్లి కాలేదు. ఒక నర్సు. కేవలం ఒక తమ్ముడు మాత్రమే ఉన్నాడు.","Karen Polachek, 1974. No witnesses. Her body was found in a boiler room. She has no family. A nurse. , just a brother.",MISMATCH

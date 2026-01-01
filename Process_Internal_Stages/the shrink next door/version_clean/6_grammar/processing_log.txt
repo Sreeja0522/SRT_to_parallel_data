@@ -1,0 +1,83 @@
+--- Punctuation Fix Started: Found 8 files ---
+
+[4_aligned.Ep2.csv] Row 275: Added '.'
+   Original: నిన్ను సెషన్ లో కలుస్తాను
+   Updated : నిన్ను సెషన్ లో కలుస్తాను.
+
+[4_aligned.Ep2.csv] Row 500: Added '.'
+   Original: ఒక థెరపిస్ట్ అలాంటి సూచన చేయడం
+   Updated : ఒక థెరపిస్ట్ అలాంటి సూచన చేయడం.
+
+[4_aligned.Ep3.csv] Row 584: Added '.'
+   Original: అతన్ని ఎలా ప్రేమించాలో
+   Updated : అతన్ని ఎలా ప్రేమించాలో.
+
+[4_aligned.Ep3.csv] Row 585: Added '.'
+   Original: ఆమె కొవ్వొత్తి పట్టుకుందా? అతన్ని ఎలా ప్రేమించాలో
+   Updated : ఆమె కొవ్వొత్తి పట్టుకుందా? అతన్ని ఎలా ప్రేమించాలో.
+
+[4_aligned.Ep3.csv] Row 591: Added '.'
+   Original: నన్ను నేను చూసుకున్నప్పుడు
+   Updated : నన్ను నేను చూసుకున్నప్పుడు.
+
+[4_aligned.Ep3.csv] Row 599: Added '.'
+   Original: మరొక్కటి
+   Updated : మరొక్కటి.
+
+[4_aligned.Ep3.csv] Row 606: Added '.'
+   Original: ఇది ఇలా అవుతుందని ఎప్పుడూ అనుకోలేదు
+   Updated : ఇది ఇలా అవుతుందని ఎప్పుడూ అనుకోలేదు.
+
+[4_aligned.Ep3.csv] Row 620: Added '.'
+   Original: వెళ్ళు వెళ్లి అలారం లాగు. నేనతన్ని ప్రేమిస్తున్నాను
+   Updated : వెళ్ళు వెళ్లి అలారం లాగు. నేనతన్ని ప్రేమిస్తున్నాను.
+
+[4_aligned.Ep3.csv] Row 655: Added '.'
+   Original: తీశావా? ఓహ్, తీశాను
+   Updated : తీశావా? ఓహ్, తీశాను.
+
+[4_aligned.Ep4.csv] Row 205: Added '.'
+   Original: మీకేమైనా సహాయం చెయ్యగలనా? పీజే
+   Updated : మీకేమైనా సహాయం చెయ్యగలనా? పీజే.
+
+[4_aligned.Ep4.csv] Row 486: Added '.'
+   Original: నాకా సమయంలో అనిపించింది
+   Updated : నాకా సమయంలో అనిపించింది.
+
+[4_aligned.Ep4.csv] Row 487: Added '.'
+   Original: నాకు తెలిసే దారి లేదని
+   Updated : నాకు తెలిసే దారి లేదని.
+
+[4_aligned.Ep4.csv] Row 488: Added '.'
+   Original: రాత్రికి రాలిపోయిన ఆకులు
+   Updated : రాత్రికి రాలిపోయిన ఆకులు.
+
+[4_aligned.Ep4.csv] Row 553: Added '.'
+   Original: నేను మర్చిపోతూ ఉంటాను నేను విన్న ప్రతిసారీ
+   Updated : నేను మర్చిపోతూ ఉంటాను నేను విన్న ప్రతిసారీ.
+
+[4_aligned.Ep4.csv] Row 554: Added '.'
+   Original: నీకొక అబద్ధం జీవించాలని ఉండకపోవడాన్ని
+   Updated : నీకొక అబద్ధం జీవించాలని ఉండకపోవడాన్ని.
+
+[4_aligned.Ep4.csv] Row 555: Added '.'
+   Original: అది ఎంత దూరం ఎలా వెళ్లిందో
+   Updated : అది ఎంత దూరం ఎలా వెళ్లిందో.
+
+[4_aligned.Ep5.csv] Row 1: Added '.'
+   Original: ఆడు! అవును! మంచి షాట్! బాగా ఆడావు, మార్టీ
+   Updated : ఆడు! అవును! మంచి షాట్! బాగా ఆడావు, మార్టీ.
+
+[4_aligned.Ep5.csv] Row 360: Added '.'
+   Original: అతను తలుపు కొట్టి, మెల్లగా ఆమె బెడ్ రూమ్ తలుపుని దగ్గరగా నెట్టాడు
+   Updated : అతను తలుపు కొట్టి, మెల్లగా ఆమె బెడ్ రూమ్ తలుపుని దగ్గరగా నెట్టాడు.
+
+[4_aligned.Ep6.csv] Row 12: Added '.'
+   Original: సరే. ఆ
+   Updated : సరే. ఆ.
+
+[4_aligned.Ep8.csv] Row 451: Added '.'
+   Original: ది బ్రూక్ షీల్డ్స్
+   Updated : ది బ్రూక్ షీల్డ్స్.
+
+--- Process Completed ---

@@ -1,0 +1,15 @@
+Index,Details,Telugu,English,Status
+122,t(3)-e(4) | ... vs ....,"అవును. అవును, అవును. అవును.","Right, no. Of course. Yeah. Yeah.",MISMATCH
+226,t(3)-e(4) | ??. vs ??..,"నువ్వు అబ్బాయి కావాలని అనుకున్నావా? ఏంటి? కాదు, కాదు, కానే కాదు.","Were you hoping for a boy? What? No. No, of course not.",MISMATCH
+237,t(2)-e(3) | .. vs ...,"ప్రియా కాదు, అబ్బా. ప్లీజ్.",Honey Nah. Come on. Please.,MISMATCH
+297,t(3)-e(2) | ..? vs .?,చాలా బాగా చేశారు. వావ్. నేను మీకు ఎంత ఇవ్వాలి?,Lovely work. How much do I owe you?,MISMATCH
+344,t(2)-e(3) | .. vs ...,"అవును, సాధించాలి. అవును, సాధించాలి.","Yes. Go. Yeah, go.",MISMATCH
+366,t(3)-e(2) | ... vs ..,ఆ. ఆ. బాగా అయింది.,Yeah. Complete sense.,MISMATCH
+369,t(2)-e(3) | .. vs ...,తప్పకుండగా సరే. ఆ పని వెంటనే చేసేద్దాం.,Absolutely. No. We'll get on it right away.,MISMATCH
+381,t(2)-e(3) | .. vs ...,వాళ్ళని ఆశ్చర్యపరచాలి. ఆకట్టుకోవాలి.,They wanna be wowed. Swept off their feet. Impressed.,MISMATCH
+447,t(3)-e(2) | ..? vs .?,"చూడు, మార్టీ. మిస్టర్ స్టీవెన్స్ మనకు కొన్ని మంచి సలహాలు ఇచ్చారన్నది నిజమే. కానీ మనకు నిజంగా ఒక ఫుల్ టైమ్ పారిశ్రామిక సైకాలజిస్ట్ కావాలంటావా?","Look, Marty. I'll admit Mr. Stevens gave us some helpful pointers, but do we really need a full-time industrial psychologist?",MISMATCH
+510,t(2)-e(3) | .. vs ...,"ఆ, సైకియాట్రిస్ట్. బిజినెస్ పార్టనర్.",Yeah. Psychiatrist. Business partner.,MISMATCH
+639,t(3)-e(4) | ... vs ....,ఆ. నేను బాగున్నాను సరే. సరే.,Yeah. I'm good. Okay. Okay.,MISMATCH
+648,t(3)-e(2) | ... vs ..,ఆ. నేను సరే. నీ ఇష్టం.,"Yeah. I Okay, well, suit yourself.",MISMATCH
+666,t(2)-e(3) | .. vs ...,"మనం హాస్పిటల్ కి వెళ్ళాలనుకుంటాను. వద్దు, వద్దు, వద్దు.","I think we should go to the hospital. No. No, no, no.",MISMATCH
+711,t(4)-e(3) | .... vs ...,"లేదు. లేదు. అవును. నేను నాకు ఆమె నిజంగా నచ్చింది, ఆమె నా గురించి ఏమనుకుంటోందో, నాకు తెలియదు.","No. No, I know. I just I really like her, and I just don't know how she feels about me.",MISMATCH

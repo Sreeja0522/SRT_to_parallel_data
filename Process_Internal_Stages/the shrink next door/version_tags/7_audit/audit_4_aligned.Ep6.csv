@@ -1,0 +1,20 @@
+Index,Details,Telugu,English,Status
+23,t(2)-e(3) | .. vs ...,సరే. అంత తొందరగా కాదు.,"[MARTY] Okay. Whoa, whoa, whoa. Not so fast.",MISMATCH
+47,t(3)-e(2) | ... vs ..,ఆ. ఓహ్. నేను మీ కోసం ఒకటి తీసుకువచ్చాను.,Yeah. I have something for you.,MISMATCH
+96,t(3)-e(2) | ... vs ..,"లేదు, నాకు తెలుసు. నాకు తెలుసు. కాథీకి ఇలాంటి విషయంలో నియంత్రణ ఉండదు.","No, I know, I know. Cathy can get outta control with that stuff.",MISMATCH
+137,t(5)-e(6) | ..... vs ......,సరే. ఆ. సరే. అలాగే. మంచిది.,"Yes. Yeah. Yeah, yeah. All right. Okay. Good.",MISMATCH
+155,t(9)-e(11) | ......... vs ...........,"మరీ ఎక్కువ బీర్లు తాగకండి. క్షమించండి. నేను ఊరికే అంటున్నాను. పార్టీ ఆనందించండి, మిత్రులారా. ధన్యవాదాలు. ధన్యవాదాలు. ఓహ్, అలాగే. మిరియం. అయితే నువ్వు నోరీన్ ని కలిసావు.","Take it easy with the cervezas. [LAUGHING] Sorry. [LAUGHS] I'm kidding. Enjoy the fiesta, amigos. [LAUGHS] Aw, gracias. Gracias. [WOMAN LAUGHING] , yeah. Whoo. So was I. , Miriam. I see you've met Noreen.",MISMATCH
+168,t(4)-e(3) | ..?? vs .??,"ఓహ్, గ్రిల్ మాస్టర్. ఓహ్. ఎవరు? నేనా?",[MIRIAM] The grill master himself. [MARTY] [CHUCKLES] Who? Me?,MISMATCH
+169,t(4)-e(3) | .... vs ...,"ఓహ్. మిరియం. ఓహ్, అవును. మీరే.","Miriam. , right. Of course.",MISMATCH
+208,t(4)-e(3) | .?.? vs ?.?,"ఓహ్. ఆమె ఫారా ఫాసెట్ ఆ? అవును. బాగుంది, కదా?","Is that Farrah Fawcett? It is. Cool, right?",MISMATCH
+226,t(4)-e(3) | .... vs ...,"ఓహ్. మీ కుటుంబమా. అవును. అవును, అవును, అవును.","Your family. Yeah. Yeah, yeah, yeah.",MISMATCH
+254,t(3)-e(2) | .?? vs .?,"లేదు, చెయ్యలేదు. నీ ఆత్మాభిమానానికి ఏమవుతోంది మార్టీ? హా?","Of course she didn't. [SIGHS] What's going on with your self-esteem, Marty?",MISMATCH
+279,t(3)-e(2) | ??? vs ??,హా? డెబ్బీ చేసినట్లు? ఫిల్లిస్ చేసినట్లు?,Like Debbie did? Like Phyllis did?,MISMATCH
+302,t(2)-e(3) | .. vs ...,ఆయన రోజంతా అదే అంటున్నాడు. కాదు నేనీసారి అది చేస్తాను.,"[TWEETS] [WOMEN] Aw. No, he was saying it all morning. No [MAN] I think he's gonna do it this time.",MISMATCH
+361,t(3)-e(2) | ... vs ..,ఆ. నేను ఇప్పుడే వస్తాను. ఎలాగూ నేనా కబాబ్ లను వెనక్కి తిప్పాలి.,"No, yeah, I-I'll be back soon. I gotta flip the kebabs anyway.",MISMATCH
+373,t(2)-e(3) | .. vs ...,బాగుంది. తాగు.తాగు.,Refreshing. Come on. Drink it.,MISMATCH
+502,t(3)-e(2) | ..? vs .?,"సరే, ఇలా రా. హా. ఓహ్, నీకు పాడాలని ఉందా?","Okay, come here. , do you two want to sing?",MISMATCH
+527,t(4)-e(3) | .... vs ...,"అవును, నాకు కూడా. అవును. ఆ-హా. అవును.","Yeah, likewise. Yeah. Yeah.",MISMATCH
+528,t(3)-e(2) | .?. vs ..,"అంటే, నేను నీ గురించి చాలా అనుకుంటున్నాను. ఓహ్? హమ్మయ్య, నువ్వు బానే ఉన్నావు.","I-I-I-I mean, I've been thinking about you a lot. Um, so I'm glad you're okay.",MISMATCH
+534,t(4)-e(3) | .... vs ...,నిన్ను కలవడం బాగుంది. మళ్ళీ కలుస్తాను. సరే. ఓహ్.,"Well, good to see you. I'll see you. Yeah.",MISMATCH
+535,t(3)-e(4) | ... vs ....,సరే. బై-బై. ఆ.,All right. [CHUCKLES] Bye-bye. Yeah. Bye-bye.,MISMATCH

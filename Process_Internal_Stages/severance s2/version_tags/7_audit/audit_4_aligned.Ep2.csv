@@ -1,0 +1,6 @@
+Index,Details,Telugu,English,Status
+12,t(3)-e(2) | ... vs ..,మరీ ఎక్కువ దూరం వెళ్లకు. హా. వెళ్ళను.,Don't go far though. I won't. [grunts],MISMATCH
+252,t(3)-e(5) | ... vs .....,"నా ఉద్దేశం, ఆరోగ్య బీమా సదుపాయం అని. ఇస్తున్నాం. మీకు, మీ కుటుంబానికి.","I meant, , health care benefits. , sure. Yes, of course. For you. Your family.",MISMATCH
+286,t(2)-e(3) | .. vs ...,మీరు నన్ను పరిగణనలోకే తీసుకోవట్లేదు. వివక్ష చూపుతున్నారు.,Okay. You're not considering me at all. That's discrimination.,MISMATCH
+331,t(2)-e(3) | .. vs ?..,"నిజంగా ఒకటి చెప్తున్నా, రికెన్ చనిపోయి, అతని శవాన్ని కాల్చాక, నీ విషయంలో నేను అయితే బాధపడతాను. వావ్.","You know what? Honestly, if Ricken died and his body burned, I'd be sad for you. Wow.",MISMATCH
+364,t(2)-e(3) | ?. vs ...,20 శాతమా? వావ్.,", 20%. Um. Wow.",MISMATCH
