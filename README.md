@@ -1,3 +1,7 @@
+The repo needs to be cloned inside a folder first.
+
+
+
 In all series_input the srt files for each episode are named as 1.srt , 1.srt and placed inside series_named folders.
 
 The code recognises the language whether english/telugu by the file content and number in the filename.
